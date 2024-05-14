@@ -1,0 +1,3098 @@
+fileFormatVersion: 2
+guid: b216820fafc027642b89d92aa2b26268
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_000
+  - first:
+      213: 21300002
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_002
+  - first:
+      213: 21300004
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_004
+  - first:
+      213: 21300006
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_006
+  - first:
+      213: 21300008
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_008
+  - first:
+      213: 21300010
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_010
+  - first:
+      213: 21300012
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_012
+  - first:
+      213: 21300014
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_014
+  - first:
+      213: 21300016
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_016
+  - first:
+      213: 21300018
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_018
+  - first:
+      213: 21300020
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_020
+  - first:
+      213: 21300022
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_022
+  - first:
+      213: 21300024
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_024
+  - first:
+      213: 21300026
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_026
+  - first:
+      213: 21300028
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_028
+  - first:
+      213: 21300030
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_000
+  - first:
+      213: 21300032
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_002
+  - first:
+      213: 21300034
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_004
+  - first:
+      213: 21300036
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_006
+  - first:
+      213: 21300038
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_008
+  - first:
+      213: 21300040
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_010
+  - first:
+      213: 21300042
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_012
+  - first:
+      213: 21300044
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_014
+  - first:
+      213: 21300046
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_016
+  - first:
+      213: 21300048
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_018
+  - first:
+      213: 21300050
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_020
+  - first:
+      213: 21300052
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_022
+  - first:
+      213: 21300054
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_024
+  - first:
+      213: 21300056
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_026
+  - first:
+      213: 21300058
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_028
+  - first:
+      213: 21300060
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_000
+  - first:
+      213: 21300062
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_002
+  - first:
+      213: 21300064
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_004
+  - first:
+      213: 21300066
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_006
+  - first:
+      213: 21300068
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_008
+  - first:
+      213: 21300070
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_010
+  - first:
+      213: 21300072
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_012
+  - first:
+      213: 21300074
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_014
+  - first:
+      213: 21300076
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_016
+  - first:
+      213: 21300078
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_018
+  - first:
+      213: 21300080
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_020
+  - first:
+      213: 21300082
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_022
+  - first:
+      213: 21300084
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_024
+  - first:
+      213: 21300086
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_026
+  - first:
+      213: 21300088
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_028
+  - first:
+      213: 21300090
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_000
+  - first:
+      213: 21300092
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_002
+  - first:
+      213: 21300094
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_004
+  - first:
+      213: 21300096
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_006
+  - first:
+      213: 21300098
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_008
+  - first:
+      213: 21300100
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_010
+  - first:
+      213: 21300102
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_012
+  - first:
+      213: 21300104
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_014
+  - first:
+      213: 21300106
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_016
+  - first:
+      213: 21300108
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_018
+  - first:
+      213: 21300110
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_020
+  - first:
+      213: 21300112
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_022
+  - first:
+      213: 21300114
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_024
+  - first:
+      213: 21300116
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_026
+  - first:
+      213: 21300118
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_028
+  - first:
+      213: 21300120
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_000
+  - first:
+      213: 21300122
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_002
+  - first:
+      213: 21300124
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_004
+  - first:
+      213: 21300126
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_006
+  - first:
+      213: 21300128
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_008
+  - first:
+      213: 21300130
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_010
+  - first:
+      213: 21300132
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_012
+  - first:
+      213: 21300134
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_014
+  - first:
+      213: 21300136
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_016
+  - first:
+      213: 21300138
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_018
+  - first:
+      213: 21300140
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_020
+  - first:
+      213: 21300142
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_022
+  - first:
+      213: 21300144
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_024
+  - first:
+      213: 21300146
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_026
+  - first:
+      213: 21300148
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_028
+  - first:
+      213: 21300150
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_000
+  - first:
+      213: 21300152
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_002
+  - first:
+      213: 21300154
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_004
+  - first:
+      213: 21300156
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_006
+  - first:
+      213: 21300158
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_008
+  - first:
+      213: 21300160
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_010
+  - first:
+      213: 21300162
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_012
+  - first:
+      213: 21300164
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_014
+  - first:
+      213: 21300166
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_016
+  - first:
+      213: 21300168
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_018
+  - first:
+      213: 21300170
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_020
+  - first:
+      213: 21300172
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_022
+  - first:
+      213: 21300174
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_024
+  - first:
+      213: 21300176
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_026
+  - first:
+      213: 21300178
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_028
+  - first:
+      213: 21300180
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_000
+  - first:
+      213: 21300182
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_002
+  - first:
+      213: 21300184
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_004
+  - first:
+      213: 21300186
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_006
+  - first:
+      213: 21300188
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_008
+  - first:
+      213: 21300190
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_010
+  - first:
+      213: 21300192
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_012
+  - first:
+      213: 21300194
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_014
+  - first:
+      213: 21300196
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_016
+  - first:
+      213: 21300198
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_018
+  - first:
+      213: 21300200
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_020
+  - first:
+      213: 21300202
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_022
+  - first:
+      213: 21300204
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_024
+  - first:
+      213: 21300206
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_026
+  - first:
+      213: 21300208
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_028
+  - first:
+      213: 21300210
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_000
+  - first:
+      213: 21300212
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_002
+  - first:
+      213: 21300214
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_004
+  - first:
+      213: 21300216
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_006
+  - first:
+      213: 21300218
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_008
+  - first:
+      213: 21300220
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_010
+  - first:
+      213: 21300222
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_012
+  - first:
+      213: 21300224
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_014
+  - first:
+      213: 21300226
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_016
+  - first:
+      213: 21300228
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_018
+  - first:
+      213: 21300230
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_020
+  - first:
+      213: 21300232
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_022
+  - first:
+      213: 21300234
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_024
+  - first:
+      213: 21300236
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_026
+  - first:
+      213: 21300238
+    second: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_028
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_000
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 943
+        width: 118
+        height: 123
+      alignment: 9
+      pivot: {x: 0.6779661, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_002
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 939
+        width: 116
+        height: 123
+      alignment: 9
+      pivot: {x: 0.67241377, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_004
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 819
+        width: 115
+        height: 123
+      alignment: 9
+      pivot: {x: 0.6695652, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_006
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1916
+        width: 243
+        height: 131
+      alignment: 9
+      pivot: {x: 0.8436214, y: 0.41984734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1581
+        width: 215
+        height: 183
+      alignment: 9
+      pivot: {x: 0.82325584, y: 0.30601093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_010
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1724
+        width: 233
+        height: 191
+      alignment: 9
+      pivot: {x: 0.8369099, y: 0.2984293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_012
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 996
+        width: 78
+        height: 190
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_014
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 813
+        width: 80
+        height: 182
+      alignment: 9
+      pivot: {x: 0.525, y: 0.2967033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 485
+        width: 102
+        height: 159
+      alignment: 9
+      pivot: {x: 0.627451, y: 0.33962265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_018
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1027
+        width: 121
+        height: 123
+      alignment: 9
+      pivot: {x: 0.6859504, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_020
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1067
+        width: 123
+        height: 123
+      alignment: 9
+      pivot: {x: 0.6910569, y: 0.44715446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_022
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1063
+        width: 121
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6859504, y: 0.4566929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_024
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 945
+        width: 119
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6806723, y: 0.46564886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_026
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1016
+        width: 118
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6779661, y: 0.46564886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 800
+        width: 117
+        height: 128
+      alignment: 9
+      pivot: {x: 0.6752137, y: 0.4609375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_000
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 348
+        width: 95
+        height: 122
+      alignment: 9
+      pivot: {x: 0.7368421, y: 0.43442622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_002
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 361
+        width: 95
+        height: 124
+      alignment: 9
+      pivot: {x: 0.7368421, y: 0.44354838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_004
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 617
+        width: 96
+        height: 129
+      alignment: 9
+      pivot: {x: 0.7395833, y: 0.45736435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_006
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1726
+        width: 194
+        height: 146
+      alignment: 9
+      pivot: {x: 0.87113404, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_008
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1552
+        width: 172
+        height: 171
+      alignment: 9
+      pivot: {x: 0.8372093, y: 0.35672516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_010
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1503
+        width: 178
+        height: 191
+      alignment: 9
+      pivot: {x: 0.83707863, y: 0.37696335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_012
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 72
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_014
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1450
+        width: 89
+        height: 183
+      alignment: 9
+      pivot: {x: 0.60674155, y: 0.40983605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_016
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1320
+        width: 105
+        height: 152
+      alignment: 9
+      pivot: {x: 0.7047619, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_018
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 907
+        width: 110
+        height: 119
+      alignment: 9
+      pivot: {x: 0.7090909, y: 0.44537815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_020
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 786
+        width: 102
+        height: 120
+      alignment: 9
+      pivot: {x: 0.6960784, y: 0.44166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_022
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 562
+        width: 99
+        height: 121
+      alignment: 9
+      pivot: {x: 0.74747473, y: 0.43801653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_024
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 662
+        width: 100
+        height: 123
+      alignment: 9
+      pivot: {x: 0.75, y: 0.43089432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_026
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 99
+        height: 127
+      alignment: 9
+      pivot: {x: 0.74747473, y: 0.4488189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_028
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 792
+        width: 98
+        height: 136
+      alignment: 9
+      pivot: {x: 0.74489796, y: 0.49264705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_000
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1333
+        width: 58
+        height: 120
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_002
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 231
+        width: 61
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_004
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 342
+        width: 69
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_006
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 463
+        width: 97
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5670103, y: 0.64215684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_008
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 486
+        width: 99
+        height: 206
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.55825245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_010
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 200
+        width: 84
+        height: 247
+      alignment: 9
+      pivot: {x: 0.44047618, y: 0.5060729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_012
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 397
+        width: 95
+        height: 164
+      alignment: 9
+      pivot: {x: 0.4526316, y: 0.30487806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_014
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 602
+        width: 105
+        height: 141
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.37588653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_016
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 471
+        width: 99
+        height: 130
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.44615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_018
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 112
+        width: 58
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.40677965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_020
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 666
+        width: 63
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_022
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1605
+        width: 63
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_024
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 352
+        width: 62
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5483871, y: 0.416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_026
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1454
+        width: 58
+        height: 126
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.42063493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_028
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 33
+        width: 60
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4552239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_000
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1473
+        width: 87
+        height: 115
+      alignment: 9
+      pivot: {x: 0.42528737, y: 0.37391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_002
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 448
+        width: 85
+        height: 114
+      alignment: 9
+      pivot: {x: 0.44705883, y: 0.37719297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_004
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 349
+        width: 84
+        height: 113
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.38053098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_006
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1148
+        width: 154
+        height: 187
+      alignment: 9
+      pivot: {x: 0.23376623, y: 0.62032086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1190
+        width: 148
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24324325, y: 0.5780347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_010
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1336
+        width: 155
+        height: 215
+      alignment: 9
+      pivot: {x: 0.2451613, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_012
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 673
+        width: 100
+        height: 144
+      alignment: 9
+      pivot: {x: 0.36, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_014
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 684
+        width: 102
+        height: 116
+      alignment: 9
+      pivot: {x: 0.3529412, y: 0.37068966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_016
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1933
+        width: 92
+        height: 114
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.37719297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_018
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 563
+        width: 85
+        height: 117
+      alignment: 9
+      pivot: {x: 0.42352942, y: 0.3931624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_020
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1186
+        width: 94
+        height: 129
+      alignment: 9
+      pivot: {x: 0.38297874, y: 0.4651163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_022
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1589
+        width: 89
+        height: 134
+      alignment: 9
+      pivot: {x: 0.40449437, y: 0.48507464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_024
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 681
+        width: 85
+        height: 131
+      alignment: 9
+      pivot: {x: 0.42352942, y: 0.45801526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_026
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 365
+        width: 84
+        height: 125
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_028
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 232
+        width: 83
+        height: 116
+      alignment: 9
+      pivot: {x: 0.43373495, y: 0.37931034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_000
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1207
+        width: 126
+        height: 131
+      alignment: 9
+      pivot: {x: 0.2936508, y: 0.46564886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_002
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1056
+        width: 125
+        height: 129
+      alignment: 9
+      pivot: {x: 0.296, y: 0.4728682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_004
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1077
+        width: 126
+        height: 129
+      alignment: 9
+      pivot: {x: 0.30952382, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1912
+        width: 246
+        height: 135
+      alignment: 9
+      pivot: {x: 0.15447155, y: 0.51111114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1765
+        width: 227
+        height: 146
+      alignment: 9
+      pivot: {x: 0.16299559, y: 0.5068493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_010
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1873
+        width: 239
+        height: 174
+      alignment: 9
+      pivot: {x: 0.15481171, y: 0.43678162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_012
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 33
+        width: 82
+        height: 168
+      alignment: 9
+      pivot: {x: 0.4512195, y: 0.45238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 83
+        height: 155
+      alignment: 9
+      pivot: {x: 0.44578314, y: 0.4967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_016
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 872
+        width: 117
+        height: 143
+      alignment: 9
+      pivot: {x: 0.31623933, y: 0.5174825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1059
+        width: 134
+        height: 130
+      alignment: 9
+      pivot: {x: 0.2835821, y: 0.46923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 131
+        height: 129
+      alignment: 9
+      pivot: {x: 0.28244275, y: 0.4728682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_022
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1191
+        width: 131
+        height: 128
+      alignment: 9
+      pivot: {x: 0.28244275, y: 0.4765625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_024
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1191
+        width: 130
+        height: 128
+      alignment: 9
+      pivot: {x: 0.2846154, y: 0.4765625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_026
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1151
+        width: 129
+        height: 129
+      alignment: 9
+      pivot: {x: 0.2868217, y: 0.4728682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_028
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1339
+        width: 127
+        height: 130
+      alignment: 9
+      pivot: {x: 0.2913386, y: 0.46923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_000
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 533
+        width: 96
+        height: 128
+      alignment: 9
+      pivot: {x: 0.30208334, y: 0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_002
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 491
+        width: 97
+        height: 125
+      alignment: 9
+      pivot: {x: 0.29896906, y: 0.464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_004
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 668
+        width: 98
+        height: 123
+      alignment: 9
+      pivot: {x: 0.29591838, y: 0.4715447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_006
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1873
+        width: 198
+        height: 174
+      alignment: 9
+      pivot: {x: 0.14646465, y: 0.33908045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_008
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1554
+        width: 181
+        height: 171
+      alignment: 9
+      pivot: {x: 0.160221, y: 0.3508772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_010
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1695
+        width: 188
+        height: 177
+      alignment: 9
+      pivot: {x: 0.15425532, y: 0.3502825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_012
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 49
+        width: 71
+        height: 162
+      alignment: 9
+      pivot: {x: 0.4084507, y: 0.39506173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_014
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1770
+        width: 91
+        height: 162
+      alignment: 9
+      pivot: {x: 0.31868133, y: 0.40123457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 645
+        width: 110
+        height: 154
+      alignment: 9
+      pivot: {x: 0.3, y: 0.4090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_018
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 801
+        width: 108
+        height: 137
+      alignment: 9
+      pivot: {x: 0.30555555, y: 0.42335767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_020
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 545
+        width: 97
+        height: 127
+      alignment: 9
+      pivot: {x: 0.30927834, y: 0.4566929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_022
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 818
+        width: 102
+        height: 126
+      alignment: 9
+      pivot: {x: 0.3137255, y: 0.46031746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_024
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 693
+        width: 108
+        height: 125
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_026
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 929
+        width: 110
+        height: 126
+      alignment: 9
+      pivot: {x: 0.35454544, y: 0.46031746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_028
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 744
+        width: 111
+        height: 127
+      alignment: 9
+      pivot: {x: 0.36936936, y: 0.4566929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_000
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 353
+        width: 61
+        height: 137
+      alignment: 9
+      pivot: {x: 0.47540984, y: 0.42335767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_002
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 215
+        width: 61
+        height: 136
+      alignment: 9
+      pivot: {x: 0.47540984, y: 0.42647058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_004
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 218
+        width: 61
+        height: 133
+      alignment: 9
+      pivot: {x: 0.47540984, y: 0.43609023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_006
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 96
+        width: 82
+        height: 245
+      alignment: 9
+      pivot: {x: 0.37804878, y: 0.23673469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_008
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1
+        width: 83
+        height: 229
+      alignment: 9
+      pivot: {x: 0.39759037, y: 0.2532751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_010
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 168
+        width: 72
+        height: 240
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.24166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_012
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 23
+        width: 76
+        height: 176
+      alignment: 9
+      pivot: {x: 0.43421054, y: 0.3465909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_014
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 13
+        width: 75
+        height: 186
+      alignment: 9
+      pivot: {x: 0.41333333, y: 0.36021507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_016
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 478
+        width: 66
+        height: 187
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.38502672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_018
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 202
+        width: 61
+        height: 158
+      alignment: 9
+      pivot: {x: 0.47540984, y: 0.36708862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_020
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 212
+        width: 61
+        height: 139
+      alignment: 9
+      pivot: {x: 0.47540984, y: 0.4172662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_022
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 353
+        width: 61
+        height: 137
+      alignment: 9
+      pivot: {x: 0.47540984, y: 0.42335767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_024
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1732
+        width: 64
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_026
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 787
+        width: 65
+        height: 141
+      alignment: 9
+      pivot: {x: 0.50769234, y: 0.42553192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_028
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1187
+        width: 65
+        height: 145
+      alignment: 9
+      pivot: {x: 0.50769234, y: 0.45517242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_000
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 409
+        width: 84
+        height: 135
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_002
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 33
+        width: 82
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.47014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_004
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1316
+        width: 85
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_006
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1320
+        width: 161
+        height: 233
+      alignment: 9
+      pivot: {x: 0.7515528, y: 0.27038628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1364
+        width: 155
+        height: 216
+      alignment: 9
+      pivot: {x: 0.7419355, y: 0.29166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_010
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1281
+        width: 161
+        height: 221
+      alignment: 9
+      pivot: {x: 0.7515528, y: 0.2850679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_012
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 747
+        width: 74
+        height: 197
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.31979695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_014
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1
+        width: 73
+        height: 200
+      alignment: 9
+      pivot: {x: 0.39726028, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 73
+        height: 191
+      alignment: 9
+      pivot: {x: 0.38356164, y: 0.35078534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_018
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 43
+        width: 82
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.4121212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_020
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1634
+        width: 91
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5604396, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_022
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1470
+        width: 86
+        height: 134
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.47014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_024
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 209
+        width: 83
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.46478873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_026
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 200
+        width: 82
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_028
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 202
+        width: 82
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.5100671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_002: 21300002
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_002: 21300092
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_024: 21300054
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_004: 21300004
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_018: 21300138
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_022: 21300112
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_020: 21300080
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_010: 21300130
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_026: 21300086
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_020: 21300200
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_000: 21300210
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_004: 21300214
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_024: 21300204
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_026: 21300206
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_024: 21300174
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_016: 21300076
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_022: 21300202
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_016: 21300046
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_006: 21300066
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_022: 21300172
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_010: 21300070
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_002: 21300122
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_000: 21300180
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_006: 21300216
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_008: 21300158
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_028: 21300118
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_028: 21300148
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_020: 21300170
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_022: 21300082
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_006: 21300096
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_016: 21300136
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_008: 21300038
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_026: 21300176
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_006: 21300126
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_000: 21300120
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_014: 21300044
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_004: 21300094
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_008: 21300008
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_014: 21300194
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_022: 21300052
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_012: 21300222
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_026: 21300116
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_020: 21300050
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_002: 21300182
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_006: 21300186
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_004: 21300034
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_008: 21300188
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_004: 21300064
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_020: 21300230
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_020: 21300140
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_028: 21300028
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_018: 21300198
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_024: 21300114
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_002: 21300212
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_002: 21300062
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_006: 21300006
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_024: 21300084
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_024: 21300024
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_010: 21300160
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_026: 21300236
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_018: 21300018
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_020: 21300020
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_002: 21300152
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_008: 21300098
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_026: 21300026
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_028: 21300178
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_022: 21300142
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_012: 21300192
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_018: 21300228
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_012: 21300012
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_010: 21300220
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_016: 21300226
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_018: 21300078
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_022: 21300232
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_012: 21300102
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_020: 21300110
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_010: 21300040
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_012: 21300132
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_000: 21300060
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_006: 21300156
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_024: 21300144
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_028: 21300058
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_000: 21300090
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_022: 21300022
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_014: 21300074
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_008: 21300128
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_028: 21300238
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_014: 21300104
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_014: 21300014
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_018: 21300108
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_000: 21300000
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_012: 21300162
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_008: 21300218
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_018: 21300048
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_002: 21300032
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_014: 21300134
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_006: 21300036
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_012: 21300072
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_016: 21300106
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_008: 21300068
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_014: 21300164
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_016: 21300016
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_004: 21300124
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_004: 21300184
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_012: 21300042
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_014: 21300224
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_026: 21300056
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_000_180_010: 21300010
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_315_135_024: 21300234
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_090_270_028: 21300088
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_028: 21300208
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_016: 21300166
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_045_225_000: 21300030
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_000: 21300150
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_180_000_026: 21300146
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_010: 21300190
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_018: 21300168
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_270_090_016: 21300196
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_225_045_004: 21300154
+      COWBOY_Winchester_WalkBack-n-Shoot_Str_135_315_010: 21300100
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

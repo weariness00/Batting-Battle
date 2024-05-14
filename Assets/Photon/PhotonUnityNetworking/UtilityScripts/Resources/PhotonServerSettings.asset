@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: e183a32e-8b9e-40c4-8d4d-4f7bb5ab63bd
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: kr
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ChangeDiceNumber
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - SetStatus
+  - SetStat
+  - SetStatColor
+  - SetPlayerPosition
+  - SetAttackPosition
+  - SetPositionByIndex
+  - SetHpStat
+  - SetSTRStat
+  - SetPositionIndex
+  - GetBattleZonePosition
+  - SetCurrentPosition
+  - AttackMotion
+  - SetUIView
+  - SetHPStat
+  - SetStrStat
+  - SerRemotePositionIndex
+  - SetLocalPositionIndex
+  - SetStartFight
+  - SetRemotePositionIndex
+  - SetLocalHPColor
+  - SetLocalSTRColor
+  - SetRemoteHPColor
+  - SetRemoteSTRColor
+  - SetActiveDice
+  - SetRound
+  - SetActiveStatText
+  - SetPopUpView
+  - Init_Defualt_Sprite
+  - SetLocalActive
+  - SetRemoteActive
+  - WhosWin
+  - SetRemoteAcitve
+  - SetLocalStatColor
+  - SetRemoteStatColor
+  - SetSkip
+  - SetHPText
+  - SetSTKText
+  - SetSTRText
+  - SetSlider
+  - SandWind_Active
+  - TEST
+  - SetFiledSprite
+  - On_ReRoll
+  - SetSprite
+  - RPC_DeathAni
+  - HideText_False
+  - SandWind_Ture
+  - SetPopUp
+  - RPCRemotePlayerActive
+  - OnlySetActive_RemotePlayer_Cowboy
+  - NoFedHPText
+  - NoFedSTRText
+  - RPC_Ani
+  - PunRPC_SetActive
+  - PlayAudio
+  - PunRPC_Blood_SetActive
+  - PRC_SetActive_RemotePlayer_Blood
+  - SetReadyUI
+  - PRC_SetActive_Blood
+  - BoolIsSkip
+  - Set_SuccessORFail
+  - SetEableImage
+  - SetActiveAreas
+  - PunWhosWind
+  - SetActivePopUp
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

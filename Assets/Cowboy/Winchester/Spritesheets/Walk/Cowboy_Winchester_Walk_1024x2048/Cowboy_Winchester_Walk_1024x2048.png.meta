@@ -1,0 +1,6098 @@
+fileFormatVersion: 2
+guid: 811c838974de45c4a94a838b186ee3a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cowboy_Winchester_Walk_000_000
+  - first:
+      213: 21300002
+    second: Cowboy_Winchester_Walk_000_001
+  - first:
+      213: 21300004
+    second: Cowboy_Winchester_Walk_000_002
+  - first:
+      213: 21300006
+    second: Cowboy_Winchester_Walk_000_003
+  - first:
+      213: 21300008
+    second: Cowboy_Winchester_Walk_000_004
+  - first:
+      213: 21300010
+    second: Cowboy_Winchester_Walk_000_005
+  - first:
+      213: 21300012
+    second: Cowboy_Winchester_Walk_000_006
+  - first:
+      213: 21300014
+    second: Cowboy_Winchester_Walk_000_007
+  - first:
+      213: 21300016
+    second: Cowboy_Winchester_Walk_000_008
+  - first:
+      213: 21300018
+    second: Cowboy_Winchester_Walk_000_009
+  - first:
+      213: 21300020
+    second: Cowboy_Winchester_Walk_000_010
+  - first:
+      213: 21300022
+    second: Cowboy_Winchester_Walk_000_011
+  - first:
+      213: 21300024
+    second: Cowboy_Winchester_Walk_000_012
+  - first:
+      213: 21300026
+    second: Cowboy_Winchester_Walk_000_013
+  - first:
+      213: 21300028
+    second: Cowboy_Winchester_Walk_000_014
+  - first:
+      213: 21300030
+    second: Cowboy_Winchester_Walk_000_015
+  - first:
+      213: 21300032
+    second: Cowboy_Winchester_Walk_000_016
+  - first:
+      213: 21300034
+    second: Cowboy_Winchester_Walk_000_017
+  - first:
+      213: 21300036
+    second: Cowboy_Winchester_Walk_000_018
+  - first:
+      213: 21300038
+    second: Cowboy_Winchester_Walk_000_019
+  - first:
+      213: 21300040
+    second: Cowboy_Winchester_Walk_000_020
+  - first:
+      213: 21300042
+    second: Cowboy_Winchester_Walk_000_021
+  - first:
+      213: 21300044
+    second: Cowboy_Winchester_Walk_000_022
+  - first:
+      213: 21300046
+    second: Cowboy_Winchester_Walk_000_023
+  - first:
+      213: 21300048
+    second: Cowboy_Winchester_Walk_000_024
+  - first:
+      213: 21300050
+    second: Cowboy_Winchester_Walk_000_025
+  - first:
+      213: 21300052
+    second: Cowboy_Winchester_Walk_000_026
+  - first:
+      213: 21300054
+    second: Cowboy_Winchester_Walk_000_027
+  - first:
+      213: 21300056
+    second: Cowboy_Winchester_Walk_000_028
+  - first:
+      213: 21300058
+    second: Cowboy_Winchester_Walk_000_029
+  - first:
+      213: 21300060
+    second: Cowboy_Winchester_Walk_045_000
+  - first:
+      213: 21300062
+    second: Cowboy_Winchester_Walk_045_001
+  - first:
+      213: 21300064
+    second: Cowboy_Winchester_Walk_045_002
+  - first:
+      213: 21300066
+    second: Cowboy_Winchester_Walk_045_003
+  - first:
+      213: 21300068
+    second: Cowboy_Winchester_Walk_045_004
+  - first:
+      213: 21300070
+    second: Cowboy_Winchester_Walk_045_005
+  - first:
+      213: 21300072
+    second: Cowboy_Winchester_Walk_045_006
+  - first:
+      213: 21300074
+    second: Cowboy_Winchester_Walk_045_007
+  - first:
+      213: 21300076
+    second: Cowboy_Winchester_Walk_045_008
+  - first:
+      213: 21300078
+    second: Cowboy_Winchester_Walk_045_009
+  - first:
+      213: 21300080
+    second: Cowboy_Winchester_Walk_045_010
+  - first:
+      213: 21300082
+    second: Cowboy_Winchester_Walk_045_011
+  - first:
+      213: 21300084
+    second: Cowboy_Winchester_Walk_045_012
+  - first:
+      213: 21300086
+    second: Cowboy_Winchester_Walk_045_013
+  - first:
+      213: 21300088
+    second: Cowboy_Winchester_Walk_045_014
+  - first:
+      213: 21300090
+    second: Cowboy_Winchester_Walk_045_015
+  - first:
+      213: 21300092
+    second: Cowboy_Winchester_Walk_045_016
+  - first:
+      213: 21300094
+    second: Cowboy_Winchester_Walk_045_017
+  - first:
+      213: 21300096
+    second: Cowboy_Winchester_Walk_045_018
+  - first:
+      213: 21300098
+    second: Cowboy_Winchester_Walk_045_019
+  - first:
+      213: 21300100
+    second: Cowboy_Winchester_Walk_045_020
+  - first:
+      213: 21300102
+    second: Cowboy_Winchester_Walk_045_021
+  - first:
+      213: 21300104
+    second: Cowboy_Winchester_Walk_045_022
+  - first:
+      213: 21300106
+    second: Cowboy_Winchester_Walk_045_023
+  - first:
+      213: 21300108
+    second: Cowboy_Winchester_Walk_045_024
+  - first:
+      213: 21300110
+    second: Cowboy_Winchester_Walk_045_025
+  - first:
+      213: 21300112
+    second: Cowboy_Winchester_Walk_045_026
+  - first:
+      213: 21300114
+    second: Cowboy_Winchester_Walk_045_027
+  - first:
+      213: 21300116
+    second: Cowboy_Winchester_Walk_045_028
+  - first:
+      213: 21300118
+    second: Cowboy_Winchester_Walk_045_029
+  - first:
+      213: 21300120
+    second: Cowboy_Winchester_Walk_090_000
+  - first:
+      213: 21300122
+    second: Cowboy_Winchester_Walk_090_001
+  - first:
+      213: 21300124
+    second: Cowboy_Winchester_Walk_090_002
+  - first:
+      213: 21300126
+    second: Cowboy_Winchester_Walk_090_003
+  - first:
+      213: 21300128
+    second: Cowboy_Winchester_Walk_090_004
+  - first:
+      213: 21300130
+    second: Cowboy_Winchester_Walk_090_005
+  - first:
+      213: 21300132
+    second: Cowboy_Winchester_Walk_090_006
+  - first:
+      213: 21300134
+    second: Cowboy_Winchester_Walk_090_007
+  - first:
+      213: 21300136
+    second: Cowboy_Winchester_Walk_090_008
+  - first:
+      213: 21300138
+    second: Cowboy_Winchester_Walk_090_009
+  - first:
+      213: 21300140
+    second: Cowboy_Winchester_Walk_090_010
+  - first:
+      213: 21300142
+    second: Cowboy_Winchester_Walk_090_011
+  - first:
+      213: 21300144
+    second: Cowboy_Winchester_Walk_090_012
+  - first:
+      213: 21300146
+    second: Cowboy_Winchester_Walk_090_013
+  - first:
+      213: 21300148
+    second: Cowboy_Winchester_Walk_090_014
+  - first:
+      213: 21300150
+    second: Cowboy_Winchester_Walk_090_015
+  - first:
+      213: 21300152
+    second: Cowboy_Winchester_Walk_090_016
+  - first:
+      213: 21300154
+    second: Cowboy_Winchester_Walk_090_017
+  - first:
+      213: 21300156
+    second: Cowboy_Winchester_Walk_090_018
+  - first:
+      213: 21300158
+    second: Cowboy_Winchester_Walk_090_019
+  - first:
+      213: 21300160
+    second: Cowboy_Winchester_Walk_090_020
+  - first:
+      213: 21300162
+    second: Cowboy_Winchester_Walk_090_021
+  - first:
+      213: 21300164
+    second: Cowboy_Winchester_Walk_090_022
+  - first:
+      213: 21300166
+    second: Cowboy_Winchester_Walk_090_023
+  - first:
+      213: 21300168
+    second: Cowboy_Winchester_Walk_090_024
+  - first:
+      213: 21300170
+    second: Cowboy_Winchester_Walk_090_025
+  - first:
+      213: 21300172
+    second: Cowboy_Winchester_Walk_090_026
+  - first:
+      213: 21300174
+    second: Cowboy_Winchester_Walk_090_027
+  - first:
+      213: 21300176
+    second: Cowboy_Winchester_Walk_090_028
+  - first:
+      213: 21300178
+    second: Cowboy_Winchester_Walk_090_029
+  - first:
+      213: 21300180
+    second: Cowboy_Winchester_Walk_135_000
+  - first:
+      213: 21300182
+    second: Cowboy_Winchester_Walk_135_001
+  - first:
+      213: 21300184
+    second: Cowboy_Winchester_Walk_135_002
+  - first:
+      213: 21300186
+    second: Cowboy_Winchester_Walk_135_003
+  - first:
+      213: 21300188
+    second: Cowboy_Winchester_Walk_135_004
+  - first:
+      213: 21300190
+    second: Cowboy_Winchester_Walk_135_005
+  - first:
+      213: 21300192
+    second: Cowboy_Winchester_Walk_135_006
+  - first:
+      213: 21300194
+    second: Cowboy_Winchester_Walk_135_007
+  - first:
+      213: 21300196
+    second: Cowboy_Winchester_Walk_135_008
+  - first:
+      213: 21300198
+    second: Cowboy_Winchester_Walk_135_009
+  - first:
+      213: 21300200
+    second: Cowboy_Winchester_Walk_135_010
+  - first:
+      213: 21300202
+    second: Cowboy_Winchester_Walk_135_011
+  - first:
+      213: 21300204
+    second: Cowboy_Winchester_Walk_135_012
+  - first:
+      213: 21300206
+    second: Cowboy_Winchester_Walk_135_013
+  - first:
+      213: 21300208
+    second: Cowboy_Winchester_Walk_135_014
+  - first:
+      213: 21300210
+    second: Cowboy_Winchester_Walk_135_015
+  - first:
+      213: 21300212
+    second: Cowboy_Winchester_Walk_135_016
+  - first:
+      213: 21300214
+    second: Cowboy_Winchester_Walk_135_017
+  - first:
+      213: 21300216
+    second: Cowboy_Winchester_Walk_135_018
+  - first:
+      213: 21300218
+    second: Cowboy_Winchester_Walk_135_019
+  - first:
+      213: 21300220
+    second: Cowboy_Winchester_Walk_135_020
+  - first:
+      213: 21300222
+    second: Cowboy_Winchester_Walk_135_021
+  - first:
+      213: 21300224
+    second: Cowboy_Winchester_Walk_135_022
+  - first:
+      213: 21300226
+    second: Cowboy_Winchester_Walk_135_023
+  - first:
+      213: 21300228
+    second: Cowboy_Winchester_Walk_135_024
+  - first:
+      213: 21300230
+    second: Cowboy_Winchester_Walk_135_025
+  - first:
+      213: 21300232
+    second: Cowboy_Winchester_Walk_135_026
+  - first:
+      213: 21300234
+    second: Cowboy_Winchester_Walk_135_027
+  - first:
+      213: 21300236
+    second: Cowboy_Winchester_Walk_135_028
+  - first:
+      213: 21300238
+    second: Cowboy_Winchester_Walk_135_029
+  - first:
+      213: 21300240
+    second: Cowboy_Winchester_Walk_180_000
+  - first:
+      213: 21300242
+    second: Cowboy_Winchester_Walk_180_001
+  - first:
+      213: 21300244
+    second: Cowboy_Winchester_Walk_180_002
+  - first:
+      213: 21300246
+    second: Cowboy_Winchester_Walk_180_003
+  - first:
+      213: 21300248
+    second: Cowboy_Winchester_Walk_180_004
+  - first:
+      213: 21300250
+    second: Cowboy_Winchester_Walk_180_005
+  - first:
+      213: 21300252
+    second: Cowboy_Winchester_Walk_180_006
+  - first:
+      213: 21300254
+    second: Cowboy_Winchester_Walk_180_007
+  - first:
+      213: 21300256
+    second: Cowboy_Winchester_Walk_180_008
+  - first:
+      213: 21300258
+    second: Cowboy_Winchester_Walk_180_009
+  - first:
+      213: 21300260
+    second: Cowboy_Winchester_Walk_180_010
+  - first:
+      213: 21300262
+    second: Cowboy_Winchester_Walk_180_011
+  - first:
+      213: 21300264
+    second: Cowboy_Winchester_Walk_180_012
+  - first:
+      213: 21300266
+    second: Cowboy_Winchester_Walk_180_013
+  - first:
+      213: 21300268
+    second: Cowboy_Winchester_Walk_180_014
+  - first:
+      213: 21300270
+    second: Cowboy_Winchester_Walk_180_015
+  - first:
+      213: 21300272
+    second: Cowboy_Winchester_Walk_180_016
+  - first:
+      213: 21300274
+    second: Cowboy_Winchester_Walk_180_017
+  - first:
+      213: 21300276
+    second: Cowboy_Winchester_Walk_180_018
+  - first:
+      213: 21300278
+    second: Cowboy_Winchester_Walk_180_019
+  - first:
+      213: 21300280
+    second: Cowboy_Winchester_Walk_180_020
+  - first:
+      213: 21300282
+    second: Cowboy_Winchester_Walk_180_021
+  - first:
+      213: 21300284
+    second: Cowboy_Winchester_Walk_180_022
+  - first:
+      213: 21300286
+    second: Cowboy_Winchester_Walk_180_023
+  - first:
+      213: 21300288
+    second: Cowboy_Winchester_Walk_180_024
+  - first:
+      213: 21300290
+    second: Cowboy_Winchester_Walk_180_025
+  - first:
+      213: 21300292
+    second: Cowboy_Winchester_Walk_180_026
+  - first:
+      213: 21300294
+    second: Cowboy_Winchester_Walk_180_027
+  - first:
+      213: 21300296
+    second: Cowboy_Winchester_Walk_180_028
+  - first:
+      213: 21300298
+    second: Cowboy_Winchester_Walk_180_029
+  - first:
+      213: 21300300
+    second: Cowboy_Winchester_Walk_225_000
+  - first:
+      213: 21300302
+    second: Cowboy_Winchester_Walk_225_001
+  - first:
+      213: 21300304
+    second: Cowboy_Winchester_Walk_225_002
+  - first:
+      213: 21300306
+    second: Cowboy_Winchester_Walk_225_003
+  - first:
+      213: 21300308
+    second: Cowboy_Winchester_Walk_225_004
+  - first:
+      213: 21300310
+    second: Cowboy_Winchester_Walk_225_005
+  - first:
+      213: 21300312
+    second: Cowboy_Winchester_Walk_225_006
+  - first:
+      213: 21300314
+    second: Cowboy_Winchester_Walk_225_007
+  - first:
+      213: 21300316
+    second: Cowboy_Winchester_Walk_225_008
+  - first:
+      213: 21300318
+    second: Cowboy_Winchester_Walk_225_009
+  - first:
+      213: 21300320
+    second: Cowboy_Winchester_Walk_225_010
+  - first:
+      213: 21300322
+    second: Cowboy_Winchester_Walk_225_011
+  - first:
+      213: 21300324
+    second: Cowboy_Winchester_Walk_225_012
+  - first:
+      213: 21300326
+    second: Cowboy_Winchester_Walk_225_013
+  - first:
+      213: 21300328
+    second: Cowboy_Winchester_Walk_225_014
+  - first:
+      213: 21300330
+    second: Cowboy_Winchester_Walk_225_015
+  - first:
+      213: 21300332
+    second: Cowboy_Winchester_Walk_225_016
+  - first:
+      213: 21300334
+    second: Cowboy_Winchester_Walk_225_017
+  - first:
+      213: 21300336
+    second: Cowboy_Winchester_Walk_225_018
+  - first:
+      213: 21300338
+    second: Cowboy_Winchester_Walk_225_019
+  - first:
+      213: 21300340
+    second: Cowboy_Winchester_Walk_225_020
+  - first:
+      213: 21300342
+    second: Cowboy_Winchester_Walk_225_021
+  - first:
+      213: 21300344
+    second: Cowboy_Winchester_Walk_225_022
+  - first:
+      213: 21300346
+    second: Cowboy_Winchester_Walk_225_023
+  - first:
+      213: 21300348
+    second: Cowboy_Winchester_Walk_225_024
+  - first:
+      213: 21300350
+    second: Cowboy_Winchester_Walk_225_025
+  - first:
+      213: 21300352
+    second: Cowboy_Winchester_Walk_225_026
+  - first:
+      213: 21300354
+    second: Cowboy_Winchester_Walk_225_027
+  - first:
+      213: 21300356
+    second: Cowboy_Winchester_Walk_225_028
+  - first:
+      213: 21300358
+    second: Cowboy_Winchester_Walk_225_029
+  - first:
+      213: 21300360
+    second: Cowboy_Winchester_Walk_270_000
+  - first:
+      213: 21300362
+    second: Cowboy_Winchester_Walk_270_001
+  - first:
+      213: 21300364
+    second: Cowboy_Winchester_Walk_270_002
+  - first:
+      213: 21300366
+    second: Cowboy_Winchester_Walk_270_003
+  - first:
+      213: 21300368
+    second: Cowboy_Winchester_Walk_270_004
+  - first:
+      213: 21300370
+    second: Cowboy_Winchester_Walk_270_005
+  - first:
+      213: 21300372
+    second: Cowboy_Winchester_Walk_270_006
+  - first:
+      213: 21300374
+    second: Cowboy_Winchester_Walk_270_007
+  - first:
+      213: 21300376
+    second: Cowboy_Winchester_Walk_270_008
+  - first:
+      213: 21300378
+    second: Cowboy_Winchester_Walk_270_009
+  - first:
+      213: 21300380
+    second: Cowboy_Winchester_Walk_270_010
+  - first:
+      213: 21300382
+    second: Cowboy_Winchester_Walk_270_011
+  - first:
+      213: 21300384
+    second: Cowboy_Winchester_Walk_270_012
+  - first:
+      213: 21300386
+    second: Cowboy_Winchester_Walk_270_013
+  - first:
+      213: 21300388
+    second: Cowboy_Winchester_Walk_270_014
+  - first:
+      213: 21300390
+    second: Cowboy_Winchester_Walk_270_015
+  - first:
+      213: 21300392
+    second: Cowboy_Winchester_Walk_270_016
+  - first:
+      213: 21300394
+    second: Cowboy_Winchester_Walk_270_017
+  - first:
+      213: 21300396
+    second: Cowboy_Winchester_Walk_270_018
+  - first:
+      213: 21300398
+    second: Cowboy_Winchester_Walk_270_019
+  - first:
+      213: 21300400
+    second: Cowboy_Winchester_Walk_270_020
+  - first:
+      213: 21300402
+    second: Cowboy_Winchester_Walk_270_021
+  - first:
+      213: 21300404
+    second: Cowboy_Winchester_Walk_270_022
+  - first:
+      213: 21300406
+    second: Cowboy_Winchester_Walk_270_023
+  - first:
+      213: 21300408
+    second: Cowboy_Winchester_Walk_270_024
+  - first:
+      213: 21300410
+    second: Cowboy_Winchester_Walk_270_025
+  - first:
+      213: 21300412
+    second: Cowboy_Winchester_Walk_270_026
+  - first:
+      213: 21300414
+    second: Cowboy_Winchester_Walk_270_027
+  - first:
+      213: 21300416
+    second: Cowboy_Winchester_Walk_270_028
+  - first:
+      213: 21300418
+    second: Cowboy_Winchester_Walk_270_029
+  - first:
+      213: 21300420
+    second: Cowboy_Winchester_Walk_315_000
+  - first:
+      213: 21300422
+    second: Cowboy_Winchester_Walk_315_001
+  - first:
+      213: 21300424
+    second: Cowboy_Winchester_Walk_315_002
+  - first:
+      213: 21300426
+    second: Cowboy_Winchester_Walk_315_003
+  - first:
+      213: 21300428
+    second: Cowboy_Winchester_Walk_315_004
+  - first:
+      213: 21300430
+    second: Cowboy_Winchester_Walk_315_005
+  - first:
+      213: 21300432
+    second: Cowboy_Winchester_Walk_315_006
+  - first:
+      213: 21300434
+    second: Cowboy_Winchester_Walk_315_007
+  - first:
+      213: 21300436
+    second: Cowboy_Winchester_Walk_315_008
+  - first:
+      213: 21300438
+    second: Cowboy_Winchester_Walk_315_009
+  - first:
+      213: 21300440
+    second: Cowboy_Winchester_Walk_315_010
+  - first:
+      213: 21300442
+    second: Cowboy_Winchester_Walk_315_011
+  - first:
+      213: 21300444
+    second: Cowboy_Winchester_Walk_315_012
+  - first:
+      213: 21300446
+    second: Cowboy_Winchester_Walk_315_013
+  - first:
+      213: 21300448
+    second: Cowboy_Winchester_Walk_315_014
+  - first:
+      213: 21300450
+    second: Cowboy_Winchester_Walk_315_015
+  - first:
+      213: 21300452
+    second: Cowboy_Winchester_Walk_315_016
+  - first:
+      213: 21300454
+    second: Cowboy_Winchester_Walk_315_017
+  - first:
+      213: 21300456
+    second: Cowboy_Winchester_Walk_315_018
+  - first:
+      213: 21300458
+    second: Cowboy_Winchester_Walk_315_019
+  - first:
+      213: 21300460
+    second: Cowboy_Winchester_Walk_315_020
+  - first:
+      213: 21300462
+    second: Cowboy_Winchester_Walk_315_021
+  - first:
+      213: 21300464
+    second: Cowboy_Winchester_Walk_315_022
+  - first:
+      213: 21300466
+    second: Cowboy_Winchester_Walk_315_023
+  - first:
+      213: 21300468
+    second: Cowboy_Winchester_Walk_315_024
+  - first:
+      213: 21300470
+    second: Cowboy_Winchester_Walk_315_025
+  - first:
+      213: 21300472
+    second: Cowboy_Winchester_Walk_315_026
+  - first:
+      213: 21300474
+    second: Cowboy_Winchester_Walk_315_027
+  - first:
+      213: 21300476
+    second: Cowboy_Winchester_Walk_315_028
+  - first:
+      213: 21300478
+    second: Cowboy_Winchester_Walk_315_029
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_000
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 95
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5473684, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_001
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1280
+        width: 96
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5104167, y: 0.40291262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_002
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1738
+        width: 96
+        height: 102
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.40686274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_003
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1738
+        width: 96
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_004
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1071
+        width: 97
+        height: 102
+      alignment: 9
+      pivot: {x: 0.41237113, y: 0.42647058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_005
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1841
+        width: 101
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4059406, y: 0.42647058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_006
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1614
+        width: 104
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.4481132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1286
+        width: 103
+        height: 109
+      alignment: 9
+      pivot: {x: 0.3592233, y: 0.45412844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1175
+        width: 101
+        height: 110
+      alignment: 9
+      pivot: {x: 0.32673267, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 98
+        height: 110
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.4409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_010
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 843
+        width: 95
+        height: 111
+      alignment: 9
+      pivot: {x: 0.24210526, y: 0.43693694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_011
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1175
+        width: 96
+        height: 110
+      alignment: 9
+      pivot: {x: 0.22916667, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 99
+        height: 109
+      alignment: 9
+      pivot: {x: 0.24242425, y: 0.4174312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1065
+        width: 102
+        height: 109
+      alignment: 9
+      pivot: {x: 0.25490198, y: 0.4174312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 105
+        height: 108
+      alignment: 9
+      pivot: {x: 0.2761905, y: 0.4212963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_015
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1614
+        width: 107
+        height: 107
+      alignment: 9
+      pivot: {x: 0.2897196, y: 0.42523363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_016
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1831
+        width: 109
+        height: 107
+      alignment: 9
+      pivot: {x: 0.3119266, y: 0.42523363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_017
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1942
+        width: 110
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3181818, y: 0.4292453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_018
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1722
+        width: 112
+        height: 107
+      alignment: 9
+      pivot: {x: 0.33035713, y: 0.43457943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_019
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830
+        width: 113
+        height: 108
+      alignment: 9
+      pivot: {x: 0.3539823, y: 0.4398148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1939
+        width: 113
+        height: 109
+      alignment: 9
+      pivot: {x: 0.36283186, y: 0.44495413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_021
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1939
+        width: 111
+        height: 109
+      alignment: 9
+      pivot: {x: 0.36036035, y: 0.44495413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_022
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1505
+        width: 106
+        height: 108
+      alignment: 9
+      pivot: {x: 0.3490566, y: 0.4398148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_023
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 955
+        width: 100
+        height: 108
+      alignment: 9
+      pivot: {x: 0.34, y: 0.43055555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 98
+        height: 110
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_025
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 731
+        width: 98
+        height: 111
+      alignment: 9
+      pivot: {x: 0.3877551, y: 0.42792794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 99
+        height: 111
+      alignment: 9
+      pivot: {x: 0.42424244, y: 0.4189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_027
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 98
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4489796, y: 0.4189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_028
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 98
+        height: 111
+      alignment: 9
+      pivot: {x: 0.47959185, y: 0.4189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_000_029
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1064
+        width: 97
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5051546, y: 0.41363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_000
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1721
+        width: 71
+        height: 109
+      alignment: 9
+      pivot: {x: 0.33802816, y: 0.4266055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_001
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1276
+        width: 73
+        height: 108
+      alignment: 9
+      pivot: {x: 0.3561644, y: 0.43055555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_002
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1167
+        width: 74
+        height: 108
+      alignment: 9
+      pivot: {x: 0.36486486, y: 0.4398148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_003
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1613
+        width: 76
+        height: 108
+      alignment: 9
+      pivot: {x: 0.38157895, y: 0.44907406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_004
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1835
+        width: 78
+        height: 108
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.44907406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_005
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1722
+        width: 81
+        height: 107
+      alignment: 9
+      pivot: {x: 0.39506173, y: 0.45327103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_006
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1721
+        width: 82
+        height: 109
+      alignment: 9
+      pivot: {x: 0.37804878, y: 0.45412844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_007
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1614
+        width: 80
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3625, y: 0.43867925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_008
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1831
+        width: 77
+        height: 107
+      alignment: 9
+      pivot: {x: 0.33766234, y: 0.43457943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_009
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1831
+        width: 74
+        height: 110
+      alignment: 9
+      pivot: {x: 0.2972973, y: 0.4409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_010
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 19
+        width: 76
+        height: 113
+      alignment: 9
+      pivot: {x: 0.28947368, y: 0.44690266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_011
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1273
+        width: 77
+        height: 112
+      alignment: 9
+      pivot: {x: 0.2987013, y: 0.4419643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_012
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1500
+        width: 79
+        height: 113
+      alignment: 9
+      pivot: {x: 0.30379745, y: 0.4380531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_013
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1386
+        width: 80
+        height: 113
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.4380531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_014
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1160
+        width: 81
+        height: 112
+      alignment: 9
+      pivot: {x: 0.32098764, y: 0.4330357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_015
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1385
+        width: 80
+        height: 114
+      alignment: 9
+      pivot: {x: 0.325, y: 0.44298247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_016
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 365
+        width: 80
+        height: 115
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_017
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 608
+        width: 80
+        height: 116
+      alignment: 9
+      pivot: {x: 0.3375, y: 0.4698276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_018
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 360
+        width: 79
+        height: 117
+      alignment: 9
+      pivot: {x: 0.32911393, y: 0.48290598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_019
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 725
+        width: 79
+        height: 117
+      alignment: 9
+      pivot: {x: 0.32911393, y: 0.48290598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_020
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 599
+        width: 79
+        height: 120
+      alignment: 9
+      pivot: {x: 0.3164557, y: 0.49583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_021
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 720
+        width: 78
+        height: 122
+      alignment: 9
+      pivot: {x: 0.2948718, y: 0.50409836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_022
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 478
+        width: 77
+        height: 120
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.49583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_023
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 481
+        width: 76
+        height: 117
+      alignment: 9
+      pivot: {x: 0.27631578, y: 0.47435898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_024
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 249
+        width: 74
+        height: 115
+      alignment: 9
+      pivot: {x: 0.27027026, y: 0.45652175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_025
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1500
+        width: 73
+        height: 112
+      alignment: 9
+      pivot: {x: 0.2739726, y: 0.4330357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_026
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1386
+        width: 73
+        height: 113
+      alignment: 9
+      pivot: {x: 0.28767124, y: 0.42920354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_027
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1159
+        width: 72
+        height: 113
+      alignment: 9
+      pivot: {x: 0.29166666, y: 0.42920354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_028
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1273
+        width: 71
+        height: 112
+      alignment: 9
+      pivot: {x: 0.29577464, y: 0.42410713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_045_029
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1273
+        width: 71
+        height: 110
+      alignment: 9
+      pivot: {x: 0.30985916, y: 0.4227273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_000
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 939
+        width: 50
+        height: 110
+      alignment: 9
+      pivot: {x: 0.46, y: 0.4409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_001
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1613
+        width: 51
+        height: 111
+      alignment: 9
+      pivot: {x: 0.4509804, y: 0.45495495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_002
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 841
+        width: 53
+        height: 113
+      alignment: 9
+      pivot: {x: 0.43396226, y: 0.47345132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_003
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1605
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4181818, y: 0.4826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_004
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1169
+        width: 55
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4181818, y: 0.4868421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_005
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 841
+        width: 55
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4181818, y: 0.48230088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_006
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1384
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: 0.43636364, y: 0.49130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_007
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 728
+        width: 56
+        height: 112
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.47767857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_008
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 955
+        width: 56
+        height: 108
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.44907406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_009
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 833
+        width: 57
+        height: 105
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.42380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_010
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 550
+        width: 58
+        height: 105
+      alignment: 9
+      pivot: {x: 0.43103448, y: 0.41428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_011
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 877
+        width: 59
+        height: 106
+      alignment: 9
+      pivot: {x: 0.42372882, y: 0.41037735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_012
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 181
+        width: 60
+        height: 106
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.41037735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_013
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 74
+        width: 61
+        height: 106
+      alignment: 9
+      pivot: {x: 0.40983605, y: 0.41037735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_014
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 288
+        width: 62
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4032258, y: 0.41588786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_015
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1098
+        width: 63
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3968254, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_016
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 766
+        width: 64
+        height: 110
+      alignment: 9
+      pivot: {x: 0.390625, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_017
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1500
+        width: 65
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_018
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1722
+        width: 65
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4, y: 0.48230088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_019
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1500
+        width: 64
+        height: 114
+      alignment: 9
+      pivot: {x: 0.40625, y: 0.4868421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_020
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 728
+        width: 63
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41269842, y: 0.48660713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_021
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1827
+        width: 61
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4262295, y: 0.49115044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_022
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 615
+        width: 59
+        height: 112
+      alignment: 9
+      pivot: {x: 0.44067797, y: 0.48660713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_023
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1721
+        width: 56
+        height: 109
+      alignment: 9
+      pivot: {x: 0.44642857, y: 0.45412844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_024
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 421
+        width: 55
+        height: 105
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.42380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_025
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 527
+        width: 54
+        height: 105
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.41428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_026
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 241
+        width: 52
+        height: 106
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.41037735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_027
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1
+        width: 51
+        height: 107
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.40654206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_028
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 44
+        width: 50
+        height: 107
+      alignment: 9
+      pivot: {x: 0.48, y: 0.40654206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_090_029
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 49
+        height: 108
+      alignment: 9
+      pivot: {x: 0.46938777, y: 0.41203704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_000
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1614
+        width: 84
+        height: 107
+      alignment: 9
+      pivot: {x: 0.39285713, y: 0.42523363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_001
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 955
+        width: 82
+        height: 108
+      alignment: 9
+      pivot: {x: 0.3902439, y: 0.4398148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_002
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1050
+        width: 79
+        height: 108
+      alignment: 9
+      pivot: {x: 0.39240506, y: 0.44907406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_003
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1050
+        width: 76
+        height: 109
+      alignment: 9
+      pivot: {x: 0.38157895, y: 0.45412844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_004
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 723
+        width: 72
+        height: 109
+      alignment: 9
+      pivot: {x: 0.375, y: 0.46330276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_005
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 843
+        width: 72
+        height: 111
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.47297296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_006
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1160
+        width: 72
+        height: 112
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.47767857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_007
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1400
+        width: 73
+        height: 112
+      alignment: 9
+      pivot: {x: 0.47945204, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_008
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1098
+        width: 75
+        height: 110
+      alignment: 9
+      pivot: {x: 0.50666666, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_009
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 628
+        width: 75
+        height: 108
+      alignment: 9
+      pivot: {x: 0.52, y: 0.43055555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_010
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 616
+        width: 75
+        height: 105
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.41428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_011
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 109
+        width: 75
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.3872549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_012
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 216
+        width: 75
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.38118812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_013
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 114
+        width: 76
+        height: 101
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.38118812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_014
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 13
+        width: 76
+        height: 100
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_015
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 13
+        width: 77
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5584416, y: 0.395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_016
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1315
+        width: 78
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5641026, y: 0.405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_017
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 109
+        width: 78
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5641026, y: 0.42079207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_018
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 515
+        width: 78
+        height: 100
+      alignment: 9
+      pivot: {x: 0.55128205, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_019
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 453
+        width: 77
+        height: 100
+      alignment: 9
+      pivot: {x: 0.53246754, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_020
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 450
+        width: 76
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5131579, y: 0.41919193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_021
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 361
+        width: 74
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.41919193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_022
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 624
+        width: 72
+        height: 98
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.41326532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_023
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 355
+        width: 70
+        height: 97
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.3969072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_024
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 254
+        width: 69
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4057971, y: 0.405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_025
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 216
+        width: 69
+        height: 101
+      alignment: 9
+      pivot: {x: 0.3768116, y: 0.4009901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_026
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 673
+        width: 71
+        height: 101
+      alignment: 9
+      pivot: {x: 0.3802817, y: 0.3910891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_027
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 318
+        width: 75
+        height: 102
+      alignment: 9
+      pivot: {x: 0.38666666, y: 0.3970588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_028
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1500
+        width: 77
+        height: 104
+      alignment: 9
+      pivot: {x: 0.38961038, y: 0.39903846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_135_029
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1054
+        width: 81
+        height: 105
+      alignment: 9
+      pivot: {x: 0.39506173, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_000
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1418
+        width: 88
+        height: 104
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.40865386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_001
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1617
+        width: 89
+        height: 102
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.40686274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_002
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1409
+        width: 88
+        height: 101
+      alignment: 9
+      pivot: {x: 0.53409094, y: 0.4108911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_003
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1316
+        width: 88
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5681818, y: 0.4108911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_004
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1736
+        width: 93
+        height: 101
+      alignment: 9
+      pivot: {x: 0.56989247, y: 0.4108911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_005
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1838
+        width: 99
+        height: 102
+      alignment: 9
+      pivot: {x: 0.57575756, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_006
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1841
+        width: 101
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5940594, y: 0.4108911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_007
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1841
+        width: 101
+        height: 103
+      alignment: 9
+      pivot: {x: 0.62376237, y: 0.41262135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_008
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1174
+        width: 98
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6632653, y: 0.41428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_009
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1290
+        width: 96
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6979167, y: 0.41588786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_010
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1396
+        width: 92
+        height: 108
+      alignment: 9
+      pivot: {x: 0.75, y: 0.4212963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_011
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1179
+        width: 93
+        height: 110
+      alignment: 9
+      pivot: {x: 0.76344085, y: 0.4227273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_012
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1398
+        width: 96
+        height: 110
+      alignment: 9
+      pivot: {x: 0.75, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 99
+        height: 110
+      alignment: 9
+      pivot: {x: 0.7373737, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 955
+        width: 102
+        height: 109
+      alignment: 9
+      pivot: {x: 0.71568626, y: 0.4357798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_015
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1941
+        width: 105
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6952381, y: 0.43457943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_016
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1943
+        width: 107
+        height: 105
+      alignment: 9
+      pivot: {x: 0.682243, y: 0.44285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_017
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1944
+        width: 109
+        height: 104
+      alignment: 9
+      pivot: {x: 0.66972476, y: 0.4471154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_018
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1945
+        width: 109
+        height: 103
+      alignment: 9
+      pivot: {x: 0.6605505, y: 0.4514563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_019
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1944
+        width: 109
+        height: 104
+      alignment: 9
+      pivot: {x: 0.64220184, y: 0.45673078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_020
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1944
+        width: 108
+        height: 104
+      alignment: 9
+      pivot: {x: 0.6296296, y: 0.45673078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_021
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1509
+        width: 106
+        height: 104
+      alignment: 9
+      pivot: {x: 0.6320755, y: 0.45673078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_022
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1836
+        width: 100
+        height: 107
+      alignment: 9
+      pivot: {x: 0.64, y: 0.46261683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_023
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1286
+        width: 94
+        height: 109
+      alignment: 9
+      pivot: {x: 0.64893615, y: 0.46330276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_024
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1632
+        width: 90
+        height: 105
+      alignment: 9
+      pivot: {x: 0.64444447, y: 0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_025
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1630
+        width: 90
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.42380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_026
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1720
+        width: 91
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.4198113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_027
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1615
+        width: 90
+        height: 106
+      alignment: 9
+      pivot: {x: 0.54444444, y: 0.41037735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_028
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1523
+        width: 89
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5168539, y: 0.41037735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_180_029
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1511
+        width: 89
+        height: 105
+      alignment: 9
+      pivot: {x: 0.48314607, y: 0.4047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_000
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 316
+        width: 67
+        height: 104
+      alignment: 9
+      pivot: {x: 0.6119403, y: 0.40865386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_001
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 421
+        width: 69
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6086956, y: 0.42380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_002
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 527
+        width: 72
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_003
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 995
+        width: 74
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5945946, y: 0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_004
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 633
+        width: 76
+        height: 107
+      alignment: 9
+      pivot: {x: 0.59210527, y: 0.44392523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_005
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1416
+        width: 78
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6025641, y: 0.43867925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_006
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1209
+        width: 81
+        height: 106
+      alignment: 9
+      pivot: {x: 0.61728394, y: 0.4292453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_007
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1062
+        width: 80
+        height: 104
+      alignment: 9
+      pivot: {x: 0.625, y: 0.41826922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_008
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 211
+        width: 78
+        height: 102
+      alignment: 9
+      pivot: {x: 0.65384614, y: 0.3970588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_009
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 775
+        width: 77
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.38118812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_010
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 523
+        width: 80
+        height: 100
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_011
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 959
+        width: 82
+        height: 102
+      alignment: 9
+      pivot: {x: 0.68292683, y: 0.37745097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_012
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1505
+        width: 84
+        height: 108
+      alignment: 9
+      pivot: {x: 0.6785714, y: 0.41203704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_013
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1722
+        width: 85
+        height: 112
+      alignment: 9
+      pivot: {x: 0.67058825, y: 0.4419643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_014
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1064
+        width: 86
+        height: 114
+      alignment: 9
+      pivot: {x: 0.6627907, y: 0.46052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_015
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 243
+        width: 85
+        height: 116
+      alignment: 9
+      pivot: {x: 0.65882355, y: 0.47844827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_016
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 127
+        width: 85
+        height: 115
+      alignment: 9
+      pivot: {x: 0.64705884, y: 0.49130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_017
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 133
+        width: 85
+        height: 115
+      alignment: 9
+      pivot: {x: 0.64705884, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_018
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1384
+        width: 84
+        height: 115
+      alignment: 9
+      pivot: {x: 0.6547619, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_019
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1725
+        width: 84
+        height: 115
+      alignment: 9
+      pivot: {x: 0.6547619, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_020
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1624
+        width: 83
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6626506, y: 0.49115044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_021
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1513
+        width: 81
+        height: 110
+      alignment: 9
+      pivot: {x: 0.67901236, y: 0.47727272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_022
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1523
+        width: 80
+        height: 108
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.45833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_023
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 848
+        width: 78
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.44392523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_024
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 877
+        width: 75
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6933333, y: 0.42380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_025
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 418
+        width: 74
+        height: 104
+      alignment: 9
+      pivot: {x: 0.6891892, y: 0.40865386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_026
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 833
+        width: 71
+        height: 103
+      alignment: 9
+      pivot: {x: 0.69014084, y: 0.39320388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_027
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 114
+        width: 70
+        height: 101
+      alignment: 9
+      pivot: {x: 0.67142856, y: 0.38118812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_028
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 247
+        width: 68
+        height: 100
+      alignment: 9
+      pivot: {x: 0.6617647, y: 0.365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_225_029
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 152
+        width: 68
+        height: 101
+      alignment: 9
+      pivot: {x: 0.64705884, y: 0.38118812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_000
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1053
+        width: 46
+        height: 115
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.46521738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_001
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 937
+        width: 46
+        height: 115
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.47391304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_002
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 492
+        width: 46
+        height: 115
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.4826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_003
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 843
+        width: 47
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.4826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_004
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 727
+        width: 48
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_005
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 612
+        width: 48
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47807017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_006
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 379
+        width: 48
+        height: 112
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.45982143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_007
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 59
+        width: 49
+        height: 109
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.44495413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_008
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 35
+        width: 50
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4357798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_009
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 44
+        width: 51
+        height: 110
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_010
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 131
+        width: 51
+        height: 109
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.4266055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_011
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 502
+        width: 52
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.4227273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_012
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 391
+        width: 53
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5283019, y: 0.4227273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_013
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 280
+        width: 54
+        height: 110
+      alignment: 9
+      pivot: {x: 0.537037, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_014
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 169
+        width: 55
+        height: 110
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.4409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_015
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 983
+        width: 56
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5535714, y: 0.45982143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_016
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 984
+        width: 57
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5614035, y: 0.47345132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_017
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 984
+        width: 57
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5614035, y: 0.48230088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_018
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 613
+        width: 58
+        height: 114
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.4868421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_019
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1284
+        width: 57
+        height: 115
+      alignment: 9
+      pivot: {x: 0.54385966, y: 0.4826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_020
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1096
+        width: 56
+        height: 113
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.47345132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_021
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 267
+        width: 54
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.45495495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_022
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 52
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4398148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_023
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 24
+        width: 50
+        height: 106
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4198113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_024
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 24
+        width: 48
+        height: 106
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.41037735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_025
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 408
+        width: 47
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0.4009434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_026
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 303
+        width: 47
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0.38942307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_027
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 198
+        width: 47
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0.38942307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_028
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 92
+        width: 47
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0.3952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_270_029
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 155
+        width: 46
+        height: 111
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.42792794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_000
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 737
+        width: 75
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4227273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_001
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 722
+        width: 73
+        height: 110
+      alignment: 9
+      pivot: {x: 0.60273975, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_002
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 656
+        width: 71
+        height: 109
+      alignment: 9
+      pivot: {x: 0.6197183, y: 0.4357798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_003
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 656
+        width: 69
+        height: 109
+      alignment: 9
+      pivot: {x: 0.6231884, y: 0.4357798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_004
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 461
+        width: 72
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.4357798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_005
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 504
+        width: 73
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5479452, y: 0.43457943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_006
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1101
+        width: 74
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.43055555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_007
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 877
+        width: 76
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4868421, y: 0.4198113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d405410000000000800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_008
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 741
+        width: 78
+        height: 106
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.41037735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d405410000000000800000000000000
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_009
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 742
+        width: 78
+        height: 105
+      alignment: 9
+      pivot: {x: 0.44871795, y: 0.3952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d405410000000000800000000000000
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_010
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 523
+        width: 78
+        height: 104
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.37980768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d405410000000000800000000000000
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_011
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 637
+        width: 80
+        height: 103
+      alignment: 9
+      pivot: {x: 0.425, y: 0.36407766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad405410000000000800000000000000
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_012
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1212
+        width: 81
+        height: 102
+      alignment: 9
+      pivot: {x: 0.41975307, y: 0.35784313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd405410000000000800000000000000
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_013
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 949
+        width: 82
+        height: 100
+      alignment: 9
+      pivot: {x: 0.41463414, y: 0.355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed405410000000000800000000000000
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_014
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 848
+        width: 82
+        height: 100
+      alignment: 9
+      pivot: {x: 0.41463414, y: 0.355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e405410000000000800000000000000
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_015
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1210
+        width: 84
+        height: 99
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.35858586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e405410000000000800000000000000
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_016
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1310
+        width: 85
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.3622449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e405410000000000800000000000000
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_017
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 956
+        width: 84
+        height: 97
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.36597937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e405410000000000800000000000000
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_018
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 950
+        width: 83
+        height: 99
+      alignment: 9
+      pivot: {x: 0.42168674, y: 0.37878788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e405410000000000800000000000000
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_019
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 848
+        width: 82
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.38118812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae405410000000000800000000000000
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_020
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 554
+        width: 81
+        height: 101
+      alignment: 9
+      pivot: {x: 0.45679012, y: 0.38118812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce405410000000000800000000000000
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_021
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 314
+        width: 78
+        height: 103
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.38349515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee405410000000000800000000000000
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_022
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 421
+        width: 74
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37128714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f405410000000000800000000000000
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_023
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 571
+        width: 71
+        height: 101
+      alignment: 9
+      pivot: {x: 0.53521127, y: 0.36138615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f405410000000000800000000000000
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_024
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 348
+        width: 70
+        height: 101
+      alignment: 9
+      pivot: {x: 0.55714285, y: 0.36138615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f405410000000000800000000000000
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_025
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 145
+        width: 68
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.35148516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f405410000000000800000000000000
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_026
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 318
+        width: 65
+        height: 102
+      alignment: 9
+      pivot: {x: 0.63076925, y: 0.3480392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f405410000000000800000000000000
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_027
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 212
+        width: 67
+        height: 103
+      alignment: 9
+      pivot: {x: 0.6119403, y: 0.35436893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af405410000000000800000000000000
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_028
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 396
+        width: 69
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6086956, y: 0.37850466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf405410000000000800000000000000
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_315_029
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 766
+        width: 72
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5972222, y: 0.40454546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef405410000000000800000000000000
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cowboy_Winchester_Walk_000_006: 21300012
+      Cowboy_Winchester_Walk_315_008: 21300436
+      Cowboy_Winchester_Walk_225_008: 21300316
+      Cowboy_Winchester_Walk_270_004: 21300368
+      Cowboy_Winchester_Walk_315_014: 21300448
+      Cowboy_Winchester_Walk_045_009: 21300078
+      Cowboy_Winchester_Walk_045_000: 21300060
+      Cowboy_Winchester_Walk_180_001: 21300242
+      Cowboy_Winchester_Walk_045_029: 21300118
+      Cowboy_Winchester_Walk_045_014: 21300088
+      Cowboy_Winchester_Walk_270_005: 21300370
+      Cowboy_Winchester_Walk_090_027: 21300174
+      Cowboy_Winchester_Walk_090_028: 21300176
+      Cowboy_Winchester_Walk_090_011: 21300142
+      Cowboy_Winchester_Walk_270_020: 21300400
+      Cowboy_Winchester_Walk_000_020: 21300040
+      Cowboy_Winchester_Walk_090_000: 21300120
+      Cowboy_Winchester_Walk_270_021: 21300402
+      Cowboy_Winchester_Walk_000_000: 21300000
+      Cowboy_Winchester_Walk_000_026: 21300052
+      Cowboy_Winchester_Walk_315_001: 21300422
+      Cowboy_Winchester_Walk_000_004: 21300008
+      Cowboy_Winchester_Walk_270_015: 21300390
+      Cowboy_Winchester_Walk_045_022: 21300104
+      Cowboy_Winchester_Walk_270_016: 21300392
+      Cowboy_Winchester_Walk_225_002: 21300304
+      Cowboy_Winchester_Walk_000_003: 21300006
+      Cowboy_Winchester_Walk_090_019: 21300158
+      Cowboy_Winchester_Walk_090_002: 21300124
+      Cowboy_Winchester_Walk_270_009: 21300378
+      Cowboy_Winchester_Walk_135_024: 21300228
+      Cowboy_Winchester_Walk_225_013: 21300326
+      Cowboy_Winchester_Walk_045_024: 21300108
+      Cowboy_Winchester_Walk_270_006: 21300372
+      Cowboy_Winchester_Walk_180_008: 21300256
+      Cowboy_Winchester_Walk_135_012: 21300204
+      Cowboy_Winchester_Walk_090_014: 21300148
+      Cowboy_Winchester_Walk_225_006: 21300312
+      Cowboy_Winchester_Walk_000_007: 21300014
+      Cowboy_Winchester_Walk_225_022: 21300344
+      Cowboy_Winchester_Walk_090_015: 21300150
+      Cowboy_Winchester_Walk_135_020: 21300220
+      Cowboy_Winchester_Walk_225_019: 21300338
+      Cowboy_Winchester_Walk_000_013: 21300026
+      Cowboy_Winchester_Walk_045_017: 21300094
+      Cowboy_Winchester_Walk_135_014: 21300208
+      Cowboy_Winchester_Walk_180_026: 21300292
+      Cowboy_Winchester_Walk_225_025: 21300350
+      Cowboy_Winchester_Walk_315_007: 21300434
+      Cowboy_Winchester_Walk_225_020: 21300340
+      Cowboy_Winchester_Walk_045_021: 21300102
+      Cowboy_Winchester_Walk_090_003: 21300126
+      Cowboy_Winchester_Walk_225_005: 21300310
+      Cowboy_Winchester_Walk_225_021: 21300342
+      Cowboy_Winchester_Walk_045_011: 21300082
+      Cowboy_Winchester_Walk_225_000: 21300300
+      Cowboy_Winchester_Walk_045_020: 21300100
+      Cowboy_Winchester_Walk_135_017: 21300214
+      Cowboy_Winchester_Walk_180_007: 21300254
+      Cowboy_Winchester_Walk_270_011: 21300382
+      Cowboy_Winchester_Walk_090_008: 21300136
+      Cowboy_Winchester_Walk_225_001: 21300302
+      Cowboy_Winchester_Walk_135_021: 21300222
+      Cowboy_Winchester_Walk_135_029: 21300238
+      Cowboy_Winchester_Walk_135_005: 21300190
+      Cowboy_Winchester_Walk_000_022: 21300044
+      Cowboy_Winchester_Walk_180_023: 21300286
+      Cowboy_Winchester_Walk_225_011: 21300322
+      Cowboy_Winchester_Walk_180_017: 21300274
+      Cowboy_Winchester_Walk_045_013: 21300086
+      Cowboy_Winchester_Walk_135_028: 21300236
+      Cowboy_Winchester_Walk_045_007: 21300074
+      Cowboy_Winchester_Walk_135_013: 21300206
+      Cowboy_Winchester_Walk_000_010: 21300020
+      Cowboy_Winchester_Walk_270_026: 21300412
+      Cowboy_Winchester_Walk_315_018: 21300456
+      Cowboy_Winchester_Walk_315_025: 21300470
+      Cowboy_Winchester_Walk_180_009: 21300258
+      Cowboy_Winchester_Walk_045_003: 21300066
+      Cowboy_Winchester_Walk_270_010: 21300380
+      Cowboy_Winchester_Walk_135_007: 21300194
+      Cowboy_Winchester_Walk_135_015: 21300210
+      Cowboy_Winchester_Walk_135_018: 21300216
+      Cowboy_Winchester_Walk_045_012: 21300084
+      Cowboy_Winchester_Walk_180_018: 21300276
+      Cowboy_Winchester_Walk_225_003: 21300306
+      Cowboy_Winchester_Walk_000_008: 21300016
+      Cowboy_Winchester_Walk_315_019: 21300458
+      Cowboy_Winchester_Walk_045_018: 21300096
+      Cowboy_Winchester_Walk_045_028: 21300116
+      Cowboy_Winchester_Walk_270_023: 21300406
+      Cowboy_Winchester_Walk_315_015: 21300450
+      Cowboy_Winchester_Walk_315_017: 21300454
+      Cowboy_Winchester_Walk_090_017: 21300154
+      Cowboy_Winchester_Walk_090_024: 21300168
+      Cowboy_Winchester_Walk_180_027: 21300294
+      Cowboy_Winchester_Walk_270_007: 21300374
+      Cowboy_Winchester_Walk_090_012: 21300144
+      Cowboy_Winchester_Walk_180_005: 21300250
+      Cowboy_Winchester_Walk_315_004: 21300428
+      Cowboy_Winchester_Walk_045_019: 21300098
+      Cowboy_Winchester_Walk_315_003: 21300426
+      Cowboy_Winchester_Walk_315_013: 21300446
+      Cowboy_Winchester_Walk_270_013: 21300386
+      Cowboy_Winchester_Walk_315_006: 21300432
+      Cowboy_Winchester_Walk_315_023: 21300466
+      Cowboy_Winchester_Walk_225_018: 21300336
+      Cowboy_Winchester_Walk_135_002: 21300184
+      Cowboy_Winchester_Walk_225_012: 21300324
+      Cowboy_Winchester_Walk_180_012: 21300264
+      Cowboy_Winchester_Walk_315_010: 21300440
+      Cowboy_Winchester_Walk_270_024: 21300408
+      Cowboy_Winchester_Walk_180_006: 21300252
+      Cowboy_Winchester_Walk_000_019: 21300038
+      Cowboy_Winchester_Walk_225_027: 21300354
+      Cowboy_Winchester_Walk_000_009: 21300018
+      Cowboy_Winchester_Walk_045_004: 21300068
+      Cowboy_Winchester_Walk_135_011: 21300202
+      Cowboy_Winchester_Walk_135_022: 21300224
+      Cowboy_Winchester_Walk_270_000: 21300360
+      Cowboy_Winchester_Walk_180_020: 21300280
+      Cowboy_Winchester_Walk_270_017: 21300394
+      Cowboy_Winchester_Walk_000_028: 21300056
+      Cowboy_Winchester_Walk_000_018: 21300036
+      Cowboy_Winchester_Walk_090_013: 21300146
+      Cowboy_Winchester_Walk_180_004: 21300248
+      Cowboy_Winchester_Walk_315_012: 21300444
+      Cowboy_Winchester_Walk_090_005: 21300130
+      Cowboy_Winchester_Walk_090_020: 21300160
+      Cowboy_Winchester_Walk_315_005: 21300430
+      Cowboy_Winchester_Walk_315_020: 21300460
+      Cowboy_Winchester_Walk_045_025: 21300110
+      Cowboy_Winchester_Walk_270_008: 21300376
+      Cowboy_Winchester_Walk_270_018: 21300396
+      Cowboy_Winchester_Walk_045_010: 21300080
+      Cowboy_Winchester_Walk_000_024: 21300048
+      Cowboy_Winchester_Walk_135_000: 21300180
+      Cowboy_Winchester_Walk_180_015: 21300270
+      Cowboy_Winchester_Walk_225_029: 21300358
+      Cowboy_Winchester_Walk_000_002: 21300004
+      Cowboy_Winchester_Walk_000_017: 21300034
+      Cowboy_Winchester_Walk_000_011: 21300022
+      Cowboy_Winchester_Walk_315_002: 21300424
+      Cowboy_Winchester_Walk_045_026: 21300112
+      Cowboy_Winchester_Walk_090_021: 21300162
+      Cowboy_Winchester_Walk_180_028: 21300296
+      Cowboy_Winchester_Walk_270_001: 21300362
+      Cowboy_Winchester_Walk_225_014: 21300328
+      Cowboy_Winchester_Walk_270_028: 21300416
+      Cowboy_Winchester_Walk_135_010: 21300200
+      Cowboy_Winchester_Walk_180_003: 21300246
+      Cowboy_Winchester_Walk_225_016: 21300332
+      Cowboy_Winchester_Walk_090_016: 21300152
+      Cowboy_Winchester_Walk_180_025: 21300290
+      Cowboy_Winchester_Walk_270_012: 21300384
+      Cowboy_Winchester_Walk_000_027: 21300054
+      Cowboy_Winchester_Walk_045_023: 21300106
+      Cowboy_Winchester_Walk_270_002: 21300364
+      Cowboy_Winchester_Walk_270_003: 21300366
+      Cowboy_Winchester_Walk_180_002: 21300244
+      Cowboy_Winchester_Walk_270_014: 21300388
+      Cowboy_Winchester_Walk_045_005: 21300070
+      Cowboy_Winchester_Walk_270_019: 21300398
+      Cowboy_Winchester_Walk_090_018: 21300156
+      Cowboy_Winchester_Walk_000_021: 21300042
+      Cowboy_Winchester_Walk_135_004: 21300188
+      Cowboy_Winchester_Walk_135_019: 21300218
+      Cowboy_Winchester_Walk_180_024: 21300288
+      Cowboy_Winchester_Walk_000_005: 21300010
+      Cowboy_Winchester_Walk_180_029: 21300298
+      Cowboy_Winchester_Walk_180_019: 21300278
+      Cowboy_Winchester_Walk_045_027: 21300114
+      Cowboy_Winchester_Walk_135_025: 21300230
+      Cowboy_Winchester_Walk_225_009: 21300318
+      Cowboy_Winchester_Walk_315_022: 21300464
+      Cowboy_Winchester_Walk_000_001: 21300002
+      Cowboy_Winchester_Walk_180_014: 21300268
+      Cowboy_Winchester_Walk_135_003: 21300186
+      Cowboy_Winchester_Walk_225_010: 21300320
+      Cowboy_Winchester_Walk_225_017: 21300334
+      Cowboy_Winchester_Walk_135_023: 21300226
+      Cowboy_Winchester_Walk_315_021: 21300462
+      Cowboy_Winchester_Walk_315_026: 21300472
+      Cowboy_Winchester_Walk_315_027: 21300474
+      Cowboy_Winchester_Walk_000_012: 21300024
+      Cowboy_Winchester_Walk_090_004: 21300128
+      Cowboy_Winchester_Walk_270_025: 21300410
+      Cowboy_Winchester_Walk_225_024: 21300348
+      Cowboy_Winchester_Walk_045_002: 21300064
+      Cowboy_Winchester_Walk_045_015: 21300090
+      Cowboy_Winchester_Walk_315_011: 21300442
+      Cowboy_Winchester_Walk_135_016: 21300212
+      Cowboy_Winchester_Walk_000_014: 21300028
+      Cowboy_Winchester_Walk_180_000: 21300240
+      Cowboy_Winchester_Walk_135_027: 21300234
+      Cowboy_Winchester_Walk_180_011: 21300262
+      Cowboy_Winchester_Walk_315_000: 21300420
+      Cowboy_Winchester_Walk_225_015: 21300330
+      Cowboy_Winchester_Walk_180_022: 21300284
+      Cowboy_Winchester_Walk_270_029: 21300418
+      Cowboy_Winchester_Walk_045_008: 21300076
+      Cowboy_Winchester_Walk_135_026: 21300232
+      Cowboy_Winchester_Walk_315_029: 21300478
+      Cowboy_Winchester_Walk_090_006: 21300132
+      Cowboy_Winchester_Walk_225_023: 21300346
+      Cowboy_Winchester_Walk_315_016: 21300452
+      Cowboy_Winchester_Walk_315_009: 21300438
+      Cowboy_Winchester_Walk_090_001: 21300122
+      Cowboy_Winchester_Walk_045_016: 21300092
+      Cowboy_Winchester_Walk_180_013: 21300266
+      Cowboy_Winchester_Walk_270_022: 21300404
+      Cowboy_Winchester_Walk_135_001: 21300182
+      Cowboy_Winchester_Walk_225_004: 21300308
+      Cowboy_Winchester_Walk_270_027: 21300414
+      Cowboy_Winchester_Walk_315_028: 21300476
+      Cowboy_Winchester_Walk_000_023: 21300046
+      Cowboy_Winchester_Walk_090_025: 21300170
+      Cowboy_Winchester_Walk_135_006: 21300192
+      Cowboy_Winchester_Walk_090_010: 21300140
+      Cowboy_Winchester_Walk_180_016: 21300272
+      Cowboy_Winchester_Walk_090_007: 21300134
+      Cowboy_Winchester_Walk_045_001: 21300062
+      Cowboy_Winchester_Walk_090_026: 21300172
+      Cowboy_Winchester_Walk_225_026: 21300352
+      Cowboy_Winchester_Walk_090_022: 21300164
+      Cowboy_Winchester_Walk_045_006: 21300072
+      Cowboy_Winchester_Walk_135_009: 21300198
+      Cowboy_Winchester_Walk_000_025: 21300050
+      Cowboy_Winchester_Walk_135_008: 21300196
+      Cowboy_Winchester_Walk_315_024: 21300468
+      Cowboy_Winchester_Walk_090_009: 21300138
+      Cowboy_Winchester_Walk_225_007: 21300314
+      Cowboy_Winchester_Walk_090_023: 21300166
+      Cowboy_Winchester_Walk_180_010: 21300260
+      Cowboy_Winchester_Walk_225_028: 21300356
+      Cowboy_Winchester_Walk_180_021: 21300282
+      Cowboy_Winchester_Walk_000_015: 21300030
+      Cowboy_Winchester_Walk_000_016: 21300032
+      Cowboy_Winchester_Walk_090_029: 21300178
+      Cowboy_Winchester_Walk_000_029: 21300058
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

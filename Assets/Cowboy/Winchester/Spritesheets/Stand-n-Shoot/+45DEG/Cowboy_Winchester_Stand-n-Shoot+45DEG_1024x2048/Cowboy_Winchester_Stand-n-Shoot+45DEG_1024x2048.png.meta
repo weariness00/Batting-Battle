@@ -1,0 +1,2298 @@
+fileFormatVersion: 2
+guid: 2a48093ae96bffb42b2b35ac1fa73d2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_000
+  - first:
+      213: 21300002
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_001
+  - first:
+      213: 21300004
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_002
+  - first:
+      213: 21300006
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_003
+  - first:
+      213: 21300008
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_004
+  - first:
+      213: 21300010
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_005
+  - first:
+      213: 21300012
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_006
+  - first:
+      213: 21300014
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_007
+  - first:
+      213: 21300016
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_008
+  - first:
+      213: 21300018
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_009
+  - first:
+      213: 21300020
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_010
+  - first:
+      213: 21300022
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_000
+  - first:
+      213: 21300024
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_001
+  - first:
+      213: 21300026
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_002
+  - first:
+      213: 21300028
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_003
+  - first:
+      213: 21300030
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_004
+  - first:
+      213: 21300032
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_005
+  - first:
+      213: 21300034
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_006
+  - first:
+      213: 21300036
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_007
+  - first:
+      213: 21300038
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_008
+  - first:
+      213: 21300040
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_009
+  - first:
+      213: 21300042
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_010
+  - first:
+      213: 21300044
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_000
+  - first:
+      213: 21300046
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_001
+  - first:
+      213: 21300048
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_002
+  - first:
+      213: 21300050
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_003
+  - first:
+      213: 21300052
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_004
+  - first:
+      213: 21300054
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_005
+  - first:
+      213: 21300056
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_006
+  - first:
+      213: 21300058
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_007
+  - first:
+      213: 21300060
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_008
+  - first:
+      213: 21300062
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_009
+  - first:
+      213: 21300064
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_010
+  - first:
+      213: 21300066
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_000
+  - first:
+      213: 21300068
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_001
+  - first:
+      213: 21300070
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_002
+  - first:
+      213: 21300072
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_003
+  - first:
+      213: 21300074
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_004
+  - first:
+      213: 21300076
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_005
+  - first:
+      213: 21300078
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_006
+  - first:
+      213: 21300080
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_007
+  - first:
+      213: 21300082
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_008
+  - first:
+      213: 21300084
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_009
+  - first:
+      213: 21300086
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_010
+  - first:
+      213: 21300088
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_000
+  - first:
+      213: 21300090
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_001
+  - first:
+      213: 21300092
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_002
+  - first:
+      213: 21300094
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_003
+  - first:
+      213: 21300096
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_004
+  - first:
+      213: 21300098
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_005
+  - first:
+      213: 21300100
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_006
+  - first:
+      213: 21300102
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_007
+  - first:
+      213: 21300104
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_008
+  - first:
+      213: 21300106
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_009
+  - first:
+      213: 21300108
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_010
+  - first:
+      213: 21300110
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_000
+  - first:
+      213: 21300112
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_001
+  - first:
+      213: 21300114
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_002
+  - first:
+      213: 21300116
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_003
+  - first:
+      213: 21300118
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_004
+  - first:
+      213: 21300120
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_005
+  - first:
+      213: 21300122
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_006
+  - first:
+      213: 21300124
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_007
+  - first:
+      213: 21300126
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_008
+  - first:
+      213: 21300128
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_009
+  - first:
+      213: 21300130
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_010
+  - first:
+      213: 21300132
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_000
+  - first:
+      213: 21300134
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_001
+  - first:
+      213: 21300136
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_002
+  - first:
+      213: 21300138
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_003
+  - first:
+      213: 21300140
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_004
+  - first:
+      213: 21300142
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_005
+  - first:
+      213: 21300144
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_006
+  - first:
+      213: 21300146
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_007
+  - first:
+      213: 21300148
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_008
+  - first:
+      213: 21300150
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_009
+  - first:
+      213: 21300152
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_010
+  - first:
+      213: 21300154
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_000
+  - first:
+      213: 21300156
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_001
+  - first:
+      213: 21300158
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_002
+  - first:
+      213: 21300160
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_003
+  - first:
+      213: 21300162
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_004
+  - first:
+      213: 21300164
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_005
+  - first:
+      213: 21300166
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_006
+  - first:
+      213: 21300168
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_007
+  - first:
+      213: 21300170
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_008
+  - first:
+      213: 21300172
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_009
+  - first:
+      213: 21300174
+    second: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_010
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_000
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 775
+        width: 156
+        height: 197
+      alignment: 9
+      pivot: {x: 0.19871795, y: 0.6751269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_001
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 574
+        width: 156
+        height: 199
+      alignment: 9
+      pivot: {x: 0.19871795, y: 0.6683417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 156
+        height: 201
+      alignment: 9
+      pivot: {x: 0.19871795, y: 0.66169155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_003
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 138
+        height: 179
+      alignment: 9
+      pivot: {x: 0.22463769, y: 0.61452514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_004
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1513
+        width: 138
+        height: 179
+      alignment: 9
+      pivot: {x: 0.22463769, y: 0.61452514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_005
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 378
+        width: 152
+        height: 194
+      alignment: 9
+      pivot: {x: 0.20394737, y: 0.6443299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_006
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 183
+        width: 152
+        height: 193
+      alignment: 9
+      pivot: {x: 0.20394737, y: 0.6476684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_007
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 392
+        width: 96
+        height: 126
+      alignment: 9
+      pivot: {x: 0.32291666, y: 0.46825397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_008
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 394
+        width: 89
+        height: 125
+      alignment: 9
+      pivot: {x: 0.3483146, y: 0.472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_009
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 657
+        width: 77
+        height: 123
+      alignment: 9
+      pivot: {x: 0.4025974, y: 0.4796748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_010
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 418
+        width: 72
+        height: 123
+      alignment: 9
+      pivot: {x: 0.43055555, y: 0.4796748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_000
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1749
+        width: 222
+        height: 124
+      alignment: 9
+      pivot: {x: 0.13963965, y: 0.4919355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_001
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 657
+        width: 222
+        height: 123
+      alignment: 9
+      pivot: {x: 0.13963965, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_002
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1041
+        width: 224
+        height: 126
+      alignment: 9
+      pivot: {x: 0.14732143, y: 0.48412699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_003
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1295
+        width: 204
+        height: 138
+      alignment: 9
+      pivot: {x: 0.17156863, y: 0.442029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_004
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 37
+        width: 204
+        height: 136
+      alignment: 9
+      pivot: {x: 0.17156863, y: 0.44852942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_005
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1169
+        width: 223
+        height: 131
+      alignment: 9
+      pivot: {x: 0.15246637, y: 0.46564886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_006
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 267
+        width: 220
+        height: 123
+      alignment: 9
+      pivot: {x: 0.14090909, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_007
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 8
+        width: 100
+        height: 123
+      alignment: 9
+      pivot: {x: 0.31, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_008
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 10
+        width: 104
+        height: 123
+      alignment: 9
+      pivot: {x: 0.29807693, y: 0.49593496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_009
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1169
+        width: 104
+        height: 124
+      alignment: 9
+      pivot: {x: 0.29807693, y: 0.4919355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_010
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 7
+        width: 102
+        height: 124
+      alignment: 9
+      pivot: {x: 0.30392158, y: 0.4919355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1854
+        width: 202
+        height: 194
+      alignment: 9
+      pivot: {x: 0.15346535, y: 0.35051546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1658
+        width: 202
+        height: 194
+      alignment: 9
+      pivot: {x: 0.15346535, y: 0.35051546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_002
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1854
+        width: 202
+        height: 194
+      alignment: 9
+      pivot: {x: 0.15346535, y: 0.35051546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_003
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1694
+        width: 181
+        height: 176
+      alignment: 9
+      pivot: {x: 0.1878453, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_004
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1872
+        width: 180
+        height: 176
+      alignment: 9
+      pivot: {x: 0.18333334, y: 0.38636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1466
+        width: 194
+        height: 190
+      alignment: 9
+      pivot: {x: 0.15979381, y: 0.35789475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_006
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1662
+        width: 194
+        height: 190
+      alignment: 9
+      pivot: {x: 0.15979381, y: 0.35789475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_007
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 536
+        width: 74
+        height: 143
+      alignment: 9
+      pivot: {x: 0.4189189, y: 0.4755245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_008
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 133
+        width: 84
+        height: 132
+      alignment: 9
+      pivot: {x: 0.3690476, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_009
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 680
+        width: 94
+        height: 129
+      alignment: 9
+      pivot: {x: 0.32978722, y: 0.5271318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_010
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 404
+        width: 95
+        height: 130
+      alignment: 9
+      pivot: {x: 0.3263158, y: 0.52307695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_000
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1220
+        width: 84
+        height: 244
+      alignment: 9
+      pivot: {x: 0.3452381, y: 0.2581967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_001
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 974
+        width: 84
+        height: 244
+      alignment: 9
+      pivot: {x: 0.3452381, y: 0.2581967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_002
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 974
+        width: 84
+        height: 244
+      alignment: 9
+      pivot: {x: 0.3452381, y: 0.2581967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_003
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 751
+        width: 98
+        height: 221
+      alignment: 9
+      pivot: {x: 0.40816328, y: 0.2850679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_004
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 175
+        width: 95
+        height: 221
+      alignment: 9
+      pivot: {x: 0.38947368, y: 0.2850679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_005
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1066
+        width: 77
+        height: 241
+      alignment: 9
+      pivot: {x: 0.38961038, y: 0.2614108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_006
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 838
+        width: 76
+        height: 241
+      alignment: 9
+      pivot: {x: 0.38157895, y: 0.2614108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_007
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 674
+        width: 63
+        height: 146
+      alignment: 9
+      pivot: {x: 0.46031746, y: 0.43150684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_008
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 406
+        width: 63
+        height: 141
+      alignment: 9
+      pivot: {x: 0.46031746, y: 0.44680852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_009
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 146
+        width: 63
+        height: 124
+      alignment: 9
+      pivot: {x: 0.46031746, y: 0.5080645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_010
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 267
+        width: 63
+        height: 125
+      alignment: 9
+      pivot: {x: 0.46031746, y: 0.504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 150
+        height: 219
+      alignment: 9
+      pivot: {x: 0.8, y: 0.2739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1245
+        width: 151
+        height: 219
+      alignment: 9
+      pivot: {x: 0.794702, y: 0.2739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803
+        width: 150
+        height: 219
+      alignment: 9
+      pivot: {x: 0.8, y: 0.2739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_003
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1309
+        width: 132
+        height: 195
+      alignment: 9
+      pivot: {x: 0.77272725, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_004
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 554
+        width: 132
+        height: 195
+      alignment: 9
+      pivot: {x: 0.77272725, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 146
+        height: 211
+      alignment: 9
+      pivot: {x: 0.79452056, y: 0.2843602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 146
+        height: 211
+      alignment: 9
+      pivot: {x: 0.79452056, y: 0.2843602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_007
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 549
+        width: 86
+        height: 129
+      alignment: 9
+      pivot: {x: 0.6511628, y: 0.4651163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_008
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 543
+        width: 78
+        height: 129
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.4651163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_009
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 151
+        width: 66
+        height: 123
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_010
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 26
+        width: 62
+        height: 123
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.4878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_000
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1483
+        width: 227
+        height: 131
+      alignment: 9
+      pivot: {x: 0.81938326, y: 0.48091602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_001
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1302
+        width: 227
+        height: 131
+      alignment: 9
+      pivot: {x: 0.81938326, y: 0.48091602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_002
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1616
+        width: 228
+        height: 131
+      alignment: 9
+      pivot: {x: 0.81578946, y: 0.48091602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_003
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1570
+        width: 207
+        height: 133
+      alignment: 9
+      pivot: {x: 0.7826087, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_004
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1435
+        width: 206
+        height: 133
+      alignment: 9
+      pivot: {x: 0.78640777, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_005
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 912
+        width: 226
+        height: 127
+      alignment: 9
+      pivot: {x: 0.8097345, y: 0.496063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_006
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 782
+        width: 224
+        height: 128
+      alignment: 9
+      pivot: {x: 0.81696427, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_007
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 953
+        width: 110
+        height: 129
+      alignment: 9
+      pivot: {x: 0.6272727, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_008
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 822
+        width: 110
+        height: 129
+      alignment: 9
+      pivot: {x: 0.6272727, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_009
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 681
+        width: 108
+        height: 128
+      alignment: 9
+      pivot: {x: 0.6203704, y: 0.4921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_010
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1040
+        width: 102
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5980392, y: 0.496063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_000
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1313
+        width: 216
+        height: 168
+      alignment: 9
+      pivot: {x: 0.8472222, y: 0.63095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_001
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1876
+        width: 216
+        height: 172
+      alignment: 9
+      pivot: {x: 0.8472222, y: 0.61627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_002
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1875
+        width: 216
+        height: 173
+      alignment: 9
+      pivot: {x: 0.8472222, y: 0.61271673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_003
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1506
+        width: 194
+        height: 154
+      alignment: 9
+      pivot: {x: 0.814433, y: 0.5649351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_004
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 398
+        width: 193
+        height: 154
+      alignment: 9
+      pivot: {x: 0.81865287, y: 0.5649351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 208
+        height: 169
+      alignment: 9
+      pivot: {x: 0.84134614, y: 0.6035503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_006
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1705
+        width: 208
+        height: 169
+      alignment: 9
+      pivot: {x: 0.84134614, y: 0.6035503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_007
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 520
+        width: 87
+        height: 135
+      alignment: 9
+      pivot: {x: 0.62068963, y: 0.5037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_008
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 521
+        width: 96
+        height: 134
+      alignment: 9
+      pivot: {x: 0.65625, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_009
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 133
+        width: 100
+        height: 132
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_010
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 135
+        width: 107
+        height: 130
+      alignment: 9
+      pivot: {x: 0.69158876, y: 0.52307695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_000
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 816
+        width: 88
+        height: 223
+      alignment: 9
+      pivot: {x: 0.6818182, y: 0.71748877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_001
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 811
+        width: 88
+        height: 227
+      alignment: 9
+      pivot: {x: 0.6818182, y: 0.7048458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_002
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1081
+        width: 88
+        height: 230
+      alignment: 9
+      pivot: {x: 0.6818182, y: 0.6956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_003
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 187
+        width: 112
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5535714, y: 0.6602871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_004
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1084
+        width: 109
+        height: 209
+      alignment: 9
+      pivot: {x: 0.56880736, y: 0.6602871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_005
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1083
+        width: 89
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5730337, y: 0.69298244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_006
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 427
+        width: 79
+        height: 228
+      alignment: 9
+      pivot: {x: 0.6455696, y: 0.69298244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_007
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 272
+        width: 63
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.46923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_008
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 276
+        width: 63
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.4765625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_009
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 290
+        width: 63
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.48412699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_010
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 20
+        width: 63
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.4919355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_002: 21300136
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_010: 21300130
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_007: 21300102
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_004: 21300140
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_003: 21300116
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_005: 21300120
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_002: 21300114
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_009: 21300106
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_003: 21300160
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_004: 21300052
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_002: 21300004
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_003: 21300072
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_002: 21300158
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_001: 21300134
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_006: 21300166
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_001: 21300090
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_006: 21300034
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_007: 21300014
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_003: 21300138
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_009: 21300018
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_006: 21300144
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_004: 21300162
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_000: 21300000
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_009: 21300084
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_010: 21300086
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_000: 21300132
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_005: 21300142
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_003: 21300006
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_003: 21300050
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_006: 21300100
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_010: 21300064
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_004: 21300074
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_010: 21300152
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_008: 21300060
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_007: 21300146
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_008: 21300126
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_002: 21300026
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_007: 21300168
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_000: 21300044
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_005: 21300076
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_000: 21300110
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_001: 21300024
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_007: 21300080
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_005: 21300010
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_000: 21300088
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_006: 21300078
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_008: 21300148
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_009: 21300040
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_003: 21300028
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_002: 21300048
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_010: 21300042
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_006: 21300056
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_005: 21300164
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_001: 21300002
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_008: 21300016
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_006: 21300122
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_002: 21300070
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_002: 21300092
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_000: 21300066
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_005: 21300098
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_008: 21300038
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_009: 21300128
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_007: 21300036
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_001: 21300068
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_010: 21300174
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_004: 21300008
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_001: 21300156
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_007: 21300058
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_001: 21300112
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_135_090_008: 21300082
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_005: 21300032
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_004: 21300030
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_009: 21300062
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_003: 21300094
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_270_225_009: 21300150
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_007: 21300124
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_000: 21300154
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_008: 21300104
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_009: 21300172
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_005: 21300054
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_315_270_008: 21300170
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_004: 21300096
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_010: 21300020
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_180_135_010: 21300108
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_225_180_004: 21300118
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_000_315_006: 21300012
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_045_000_000: 21300022
+      Cowboy_Winchester_Stand-n-Shoot_Str+45DEG_090_045_001: 21300046
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

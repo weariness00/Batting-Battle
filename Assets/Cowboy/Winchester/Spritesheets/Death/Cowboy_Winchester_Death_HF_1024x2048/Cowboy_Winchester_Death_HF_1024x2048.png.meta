@@ -1,0 +1,3298 @@
+fileFormatVersion: 2
+guid: bebf91ddaba0e3545bbbc06069965bf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cowboy_Winchester_Death_000_000
+  - first:
+      213: 21300002
+    second: Cowboy_Winchester_Death_000_002
+  - first:
+      213: 21300004
+    second: Cowboy_Winchester_Death_000_004
+  - first:
+      213: 21300006
+    second: Cowboy_Winchester_Death_000_006
+  - first:
+      213: 21300008
+    second: Cowboy_Winchester_Death_000_008
+  - first:
+      213: 21300010
+    second: Cowboy_Winchester_Death_000_010
+  - first:
+      213: 21300012
+    second: Cowboy_Winchester_Death_000_012
+  - first:
+      213: 21300014
+    second: Cowboy_Winchester_Death_000_014
+  - first:
+      213: 21300016
+    second: Cowboy_Winchester_Death_000_016
+  - first:
+      213: 21300018
+    second: Cowboy_Winchester_Death_000_018
+  - first:
+      213: 21300020
+    second: Cowboy_Winchester_Death_000_020
+  - first:
+      213: 21300022
+    second: Cowboy_Winchester_Death_000_022
+  - first:
+      213: 21300024
+    second: Cowboy_Winchester_Death_000_024
+  - first:
+      213: 21300026
+    second: Cowboy_Winchester_Death_000_026
+  - first:
+      213: 21300028
+    second: Cowboy_Winchester_Death_000_028
+  - first:
+      213: 21300030
+    second: Cowboy_Winchester_Death_000_030
+  - first:
+      213: 21300032
+    second: Cowboy_Winchester_Death_045_000
+  - first:
+      213: 21300034
+    second: Cowboy_Winchester_Death_045_002
+  - first:
+      213: 21300036
+    second: Cowboy_Winchester_Death_045_004
+  - first:
+      213: 21300038
+    second: Cowboy_Winchester_Death_045_006
+  - first:
+      213: 21300040
+    second: Cowboy_Winchester_Death_045_008
+  - first:
+      213: 21300042
+    second: Cowboy_Winchester_Death_045_010
+  - first:
+      213: 21300044
+    second: Cowboy_Winchester_Death_045_012
+  - first:
+      213: 21300046
+    second: Cowboy_Winchester_Death_045_014
+  - first:
+      213: 21300048
+    second: Cowboy_Winchester_Death_045_016
+  - first:
+      213: 21300050
+    second: Cowboy_Winchester_Death_045_018
+  - first:
+      213: 21300052
+    second: Cowboy_Winchester_Death_045_020
+  - first:
+      213: 21300054
+    second: Cowboy_Winchester_Death_045_022
+  - first:
+      213: 21300056
+    second: Cowboy_Winchester_Death_045_024
+  - first:
+      213: 21300058
+    second: Cowboy_Winchester_Death_045_026
+  - first:
+      213: 21300060
+    second: Cowboy_Winchester_Death_045_028
+  - first:
+      213: 21300062
+    second: Cowboy_Winchester_Death_045_030
+  - first:
+      213: 21300064
+    second: Cowboy_Winchester_Death_090_000
+  - first:
+      213: 21300066
+    second: Cowboy_Winchester_Death_090_002
+  - first:
+      213: 21300068
+    second: Cowboy_Winchester_Death_090_004
+  - first:
+      213: 21300070
+    second: Cowboy_Winchester_Death_090_006
+  - first:
+      213: 21300072
+    second: Cowboy_Winchester_Death_090_008
+  - first:
+      213: 21300074
+    second: Cowboy_Winchester_Death_090_010
+  - first:
+      213: 21300076
+    second: Cowboy_Winchester_Death_090_012
+  - first:
+      213: 21300078
+    second: Cowboy_Winchester_Death_090_014
+  - first:
+      213: 21300080
+    second: Cowboy_Winchester_Death_090_016
+  - first:
+      213: 21300082
+    second: Cowboy_Winchester_Death_090_018
+  - first:
+      213: 21300084
+    second: Cowboy_Winchester_Death_090_020
+  - first:
+      213: 21300086
+    second: Cowboy_Winchester_Death_090_022
+  - first:
+      213: 21300088
+    second: Cowboy_Winchester_Death_090_024
+  - first:
+      213: 21300090
+    second: Cowboy_Winchester_Death_090_026
+  - first:
+      213: 21300092
+    second: Cowboy_Winchester_Death_090_028
+  - first:
+      213: 21300094
+    second: Cowboy_Winchester_Death_090_030
+  - first:
+      213: 21300096
+    second: Cowboy_Winchester_Death_135_000
+  - first:
+      213: 21300098
+    second: Cowboy_Winchester_Death_135_002
+  - first:
+      213: 21300100
+    second: Cowboy_Winchester_Death_135_004
+  - first:
+      213: 21300102
+    second: Cowboy_Winchester_Death_135_006
+  - first:
+      213: 21300104
+    second: Cowboy_Winchester_Death_135_008
+  - first:
+      213: 21300106
+    second: Cowboy_Winchester_Death_135_010
+  - first:
+      213: 21300108
+    second: Cowboy_Winchester_Death_135_012
+  - first:
+      213: 21300110
+    second: Cowboy_Winchester_Death_135_014
+  - first:
+      213: 21300112
+    second: Cowboy_Winchester_Death_135_016
+  - first:
+      213: 21300114
+    second: Cowboy_Winchester_Death_135_018
+  - first:
+      213: 21300116
+    second: Cowboy_Winchester_Death_135_020
+  - first:
+      213: 21300118
+    second: Cowboy_Winchester_Death_135_022
+  - first:
+      213: 21300120
+    second: Cowboy_Winchester_Death_135_024
+  - first:
+      213: 21300122
+    second: Cowboy_Winchester_Death_135_026
+  - first:
+      213: 21300124
+    second: Cowboy_Winchester_Death_135_028
+  - first:
+      213: 21300126
+    second: Cowboy_Winchester_Death_135_030
+  - first:
+      213: 21300128
+    second: Cowboy_Winchester_Death_180_000
+  - first:
+      213: 21300130
+    second: Cowboy_Winchester_Death_180_002
+  - first:
+      213: 21300132
+    second: Cowboy_Winchester_Death_180_004
+  - first:
+      213: 21300134
+    second: Cowboy_Winchester_Death_180_006
+  - first:
+      213: 21300136
+    second: Cowboy_Winchester_Death_180_008
+  - first:
+      213: 21300138
+    second: Cowboy_Winchester_Death_180_010
+  - first:
+      213: 21300140
+    second: Cowboy_Winchester_Death_180_012
+  - first:
+      213: 21300142
+    second: Cowboy_Winchester_Death_180_014
+  - first:
+      213: 21300144
+    second: Cowboy_Winchester_Death_180_016
+  - first:
+      213: 21300146
+    second: Cowboy_Winchester_Death_180_018
+  - first:
+      213: 21300148
+    second: Cowboy_Winchester_Death_180_020
+  - first:
+      213: 21300150
+    second: Cowboy_Winchester_Death_180_022
+  - first:
+      213: 21300152
+    second: Cowboy_Winchester_Death_180_024
+  - first:
+      213: 21300154
+    second: Cowboy_Winchester_Death_180_026
+  - first:
+      213: 21300156
+    second: Cowboy_Winchester_Death_180_028
+  - first:
+      213: 21300158
+    second: Cowboy_Winchester_Death_180_030
+  - first:
+      213: 21300160
+    second: Cowboy_Winchester_Death_225_000
+  - first:
+      213: 21300162
+    second: Cowboy_Winchester_Death_225_002
+  - first:
+      213: 21300164
+    second: Cowboy_Winchester_Death_225_004
+  - first:
+      213: 21300166
+    second: Cowboy_Winchester_Death_225_006
+  - first:
+      213: 21300168
+    second: Cowboy_Winchester_Death_225_008
+  - first:
+      213: 21300170
+    second: Cowboy_Winchester_Death_225_010
+  - first:
+      213: 21300172
+    second: Cowboy_Winchester_Death_225_012
+  - first:
+      213: 21300174
+    second: Cowboy_Winchester_Death_225_014
+  - first:
+      213: 21300176
+    second: Cowboy_Winchester_Death_225_016
+  - first:
+      213: 21300178
+    second: Cowboy_Winchester_Death_225_018
+  - first:
+      213: 21300180
+    second: Cowboy_Winchester_Death_225_020
+  - first:
+      213: 21300182
+    second: Cowboy_Winchester_Death_225_022
+  - first:
+      213: 21300184
+    second: Cowboy_Winchester_Death_225_024
+  - first:
+      213: 21300186
+    second: Cowboy_Winchester_Death_225_026
+  - first:
+      213: 21300188
+    second: Cowboy_Winchester_Death_225_028
+  - first:
+      213: 21300190
+    second: Cowboy_Winchester_Death_225_030
+  - first:
+      213: 21300192
+    second: Cowboy_Winchester_Death_270_000
+  - first:
+      213: 21300194
+    second: Cowboy_Winchester_Death_270_002
+  - first:
+      213: 21300196
+    second: Cowboy_Winchester_Death_270_004
+  - first:
+      213: 21300198
+    second: Cowboy_Winchester_Death_270_006
+  - first:
+      213: 21300200
+    second: Cowboy_Winchester_Death_270_008
+  - first:
+      213: 21300202
+    second: Cowboy_Winchester_Death_270_010
+  - first:
+      213: 21300204
+    second: Cowboy_Winchester_Death_270_012
+  - first:
+      213: 21300206
+    second: Cowboy_Winchester_Death_270_014
+  - first:
+      213: 21300208
+    second: Cowboy_Winchester_Death_270_016
+  - first:
+      213: 21300210
+    second: Cowboy_Winchester_Death_270_018
+  - first:
+      213: 21300212
+    second: Cowboy_Winchester_Death_270_020
+  - first:
+      213: 21300214
+    second: Cowboy_Winchester_Death_270_022
+  - first:
+      213: 21300216
+    second: Cowboy_Winchester_Death_270_024
+  - first:
+      213: 21300218
+    second: Cowboy_Winchester_Death_270_026
+  - first:
+      213: 21300220
+    second: Cowboy_Winchester_Death_270_028
+  - first:
+      213: 21300222
+    second: Cowboy_Winchester_Death_270_030
+  - first:
+      213: 21300224
+    second: Cowboy_Winchester_Death_315_000
+  - first:
+      213: 21300226
+    second: Cowboy_Winchester_Death_315_002
+  - first:
+      213: 21300228
+    second: Cowboy_Winchester_Death_315_004
+  - first:
+      213: 21300230
+    second: Cowboy_Winchester_Death_315_006
+  - first:
+      213: 21300232
+    second: Cowboy_Winchester_Death_315_008
+  - first:
+      213: 21300234
+    second: Cowboy_Winchester_Death_315_010
+  - first:
+      213: 21300236
+    second: Cowboy_Winchester_Death_315_012
+  - first:
+      213: 21300238
+    second: Cowboy_Winchester_Death_315_014
+  - first:
+      213: 21300240
+    second: Cowboy_Winchester_Death_315_016
+  - first:
+      213: 21300242
+    second: Cowboy_Winchester_Death_315_018
+  - first:
+      213: 21300244
+    second: Cowboy_Winchester_Death_315_020
+  - first:
+      213: 21300246
+    second: Cowboy_Winchester_Death_315_022
+  - first:
+      213: 21300248
+    second: Cowboy_Winchester_Death_315_024
+  - first:
+      213: 21300250
+    second: Cowboy_Winchester_Death_315_026
+  - first:
+      213: 21300252
+    second: Cowboy_Winchester_Death_315_028
+  - first:
+      213: 21300254
+    second: Cowboy_Winchester_Death_315_030
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_000
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 326
+        width: 47
+        height: 139
+      alignment: 9
+      pivot: {x: 0.44680852, y: 0.48920864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_002
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 125
+        width: 47
+        height: 140
+      alignment: 9
+      pivot: {x: 0.44680852, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_004
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 127
+        width: 91
+        height: 138
+      alignment: 9
+      pivot: {x: 0.41758242, y: 0.51449275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_006
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 266
+        width: 99
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6060606, y: 0.5530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_008
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 869
+        width: 123
+        height: 136
+      alignment: 9
+      pivot: {x: 0.6585366, y: 0.5367647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_010
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 368
+        width: 124
+        height: 105
+      alignment: 9
+      pivot: {x: 0.766129, y: 0.6761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_012
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1412
+        width: 146
+        height: 117
+      alignment: 9
+      pivot: {x: 0.7671233, y: 0.6752137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_014
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1417
+        width: 148
+        height: 132
+      alignment: 9
+      pivot: {x: 0.8378378, y: 0.5984849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_016
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1779
+        width: 157
+        height: 130
+      alignment: 9
+      pivot: {x: 0.79617834, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_018
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1900
+        width: 166
+        height: 148
+      alignment: 9
+      pivot: {x: 0.75301206, y: 0.5540541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 149
+        height: 144
+      alignment: 9
+      pivot: {x: 0.8389262, y: 0.6180556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_022
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 149
+        height: 158
+      alignment: 9
+      pivot: {x: 0.8389262, y: 0.556962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_024
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1429
+        width: 157
+        height: 124
+      alignment: 9
+      pivot: {x: 0.80254775, y: 0.6935484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_026
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 640
+        width: 160
+        height: 104
+      alignment: 9
+      pivot: {x: 0.7875, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_028
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1796
+        width: 169
+        height: 103
+      alignment: 9
+      pivot: {x: 0.74556214, y: 0.65048546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_000_030
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1554
+        width: 169
+        height: 100
+      alignment: 9
+      pivot: {x: 0.74556214, y: 0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_000
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 548
+        width: 72
+        height: 115
+      alignment: 9
+      pivot: {x: 0.3472222, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_002
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 664
+        width: 74
+        height: 114
+      alignment: 9
+      pivot: {x: 0.36486486, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_004
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1537
+        width: 100
+        height: 114
+      alignment: 9
+      pivot: {x: 0.44, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_006
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 524
+        width: 108
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5740741, y: 0.4678899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_008
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 466
+        width: 127
+        height: 101
+      alignment: 9
+      pivot: {x: 0.63779527, y: 0.57425743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_010
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 991
+        width: 141
+        height: 97
+      alignment: 9
+      pivot: {x: 0.67375886, y: 0.742268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_012
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1284
+        width: 145
+        height: 132
+      alignment: 9
+      pivot: {x: 0.7241379, y: 0.92424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_014
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1298
+        width: 151
+        height: 130
+      alignment: 9
+      pivot: {x: 0.7350993, y: 0.9846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_016
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1271
+        width: 151
+        height: 140
+      alignment: 9
+      pivot: {x: 0.7350993, y: 0.85714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_018
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1301
+        width: 151
+        height: 121
+      alignment: 9
+      pivot: {x: 0.7350993, y: 0.92561984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_020
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1782
+        width: 164
+        height: 124
+      alignment: 9
+      pivot: {x: 0.75609756, y: 0.91129035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_022
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1660
+        width: 164
+        height: 135
+      alignment: 9
+      pivot: {x: 0.75609756, y: 0.84444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_024
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1550
+        width: 164
+        height: 109
+      alignment: 9
+      pivot: {x: 0.75609756, y: 1.0550458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_026
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1542
+        width: 164
+        height: 109
+      alignment: 9
+      pivot: {x: 0.75609756, y: 1.0275229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_028
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1432
+        width: 164
+        height: 104
+      alignment: 9
+      pivot: {x: 0.75609756, y: 1.0096154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_045_030
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1329
+        width: 164
+        height: 102
+      alignment: 9
+      pivot: {x: 0.75609756, y: 1.0196079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_000
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 5
+        width: 72
+        height: 116
+      alignment: 9
+      pivot: {x: 0.43055555, y: 0.4051724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_002
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 482
+        width: 75
+        height: 115
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.40869564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_004
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 243
+        width: 90
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.40869564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_006
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 104
+        height: 123
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.46341464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_008
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1530
+        width: 117
+        height: 128
+      alignment: 9
+      pivot: {x: 0.62393165, y: 0.5390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 125
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6, y: 0.66875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 117
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5811966, y: 0.7473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_014
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1659
+        width: 119
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5966387, y: 0.742268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_016
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1854
+        width: 125
+        height: 194
+      alignment: 9
+      pivot: {x: 0.6, y: 0.7474227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_018
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1645
+        width: 122
+        height: 200
+      alignment: 9
+      pivot: {x: 0.58196723, y: 0.725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 125
+        height: 177
+      alignment: 9
+      pivot: {x: 0.6, y: 0.81920904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_022
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 113
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5575221, y: 0.77540106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 867
+        width: 124
+        height: 188
+      alignment: 9
+      pivot: {x: 0.6048387, y: 0.7712766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1247
+        width: 111
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5855856, y: 0.7474227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_028
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1442
+        width: 113
+        height: 202
+      alignment: 9
+      pivot: {x: 0.6106195, y: 0.7178218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_090_030
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1846
+        width: 122
+        height: 202
+      alignment: 9
+      pivot: {x: 0.58196723, y: 0.7178218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_000
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 407
+        width: 53
+        height: 116
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.4051724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_002
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 6
+        width: 61
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5409836, y: 0.40869564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_004
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 206
+        width: 87
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0.45378152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_006
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 770
+        width: 107
+        height: 120
+      alignment: 9
+      pivot: {x: 0.55140185, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_008
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 353
+        width: 120
+        height: 112
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_010
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 636
+        width: 126
+        height: 116
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.8362069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_012
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1006
+        width: 134
+        height: 132
+      alignment: 9
+      pivot: {x: 0.32089552, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_014
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1139
+        width: 141
+        height: 131
+      alignment: 9
+      pivot: {x: 0.32624114, y: 0.99236643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_016
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 745
+        width: 138
+        height: 123
+      alignment: 9
+      pivot: {x: 0.33333334, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_018
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1910
+        width: 163
+        height: 138
+      alignment: 9
+      pivot: {x: 0.25153375, y: 0.8913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_020
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1780
+        width: 160
+        height: 137
+      alignment: 9
+      pivot: {x: 0.2375, y: 0.8978102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_022
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1907
+        width: 161
+        height: 141
+      alignment: 9
+      pivot: {x: 0.24223602, y: 0.87234044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_024
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1652
+        width: 163
+        height: 126
+      alignment: 9
+      pivot: {x: 0.25153375, y: 0.99206346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_026
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1652
+        width: 166
+        height: 127
+      alignment: 9
+      pivot: {x: 0.26506025, y: 0.96850395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_028
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1655
+        width: 169
+        height: 126
+      alignment: 9
+      pivot: {x: 0.2781065, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_135_030
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1918
+        width: 171
+        height: 130
+      alignment: 9
+      pivot: {x: 0.28654972, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_000
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 909
+        width: 43
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_002
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3
+        width: 48
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.41525424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_004
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 359
+        width: 87
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5632184, y: 0.45901638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_006
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 12
+        width: 99
+        height: 122
+      alignment: 9
+      pivot: {x: 0.3838384, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_008
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1422
+        width: 129
+        height: 114
+      alignment: 9
+      pivot: {x: 0.3255814, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_010
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 568
+        width: 131
+        height: 95
+      alignment: 9
+      pivot: {x: 0.22137405, y: 0.77894735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_012
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 891
+        width: 140
+        height: 99
+      alignment: 9
+      pivot: {x: 0.15, y: 0.969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_014
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 959
+        width: 144
+        height: 102
+      alignment: 9
+      pivot: {x: 0.15277778, y: 0.9411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_016
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 874
+        width: 146
+        height: 105
+      alignment: 9
+      pivot: {x: 0.16438356, y: 0.9238095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_018
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 664
+        width: 146
+        height: 103
+      alignment: 9
+      pivot: {x: 0.16438356, y: 0.89320385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_020
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1080
+        width: 152
+        height: 101
+      alignment: 9
+      pivot: {x: 0.15789473, y: 0.8712871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_022
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1118
+        width: 158
+        height: 107
+      alignment: 9
+      pivot: {x: 0.15189873, y: 0.8317757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_024
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 980
+        width: 158
+        height: 99
+      alignment: 9
+      pivot: {x: 0.15189873, y: 0.8989899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_026
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1029
+        width: 158
+        height: 88
+      alignment: 9
+      pivot: {x: 0.15189873, y: 1.0113636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_028
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 869
+        width: 158
+        height: 89
+      alignment: 9
+      pivot: {x: 0.15189873, y: 1.0449438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_180_030
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 884
+        width: 158
+        height: 95
+      alignment: 9
+      pivot: {x: 0.15189873, y: 1.0210526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_000
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 12
+        width: 70
+        height: 122
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.40983605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_002
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 141
+        width: 74
+        height: 120
+      alignment: 9
+      pivot: {x: 0.6081081, y: 0.40833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_004
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 262
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_006
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1924
+        width: 110
+        height: 124
+      alignment: 9
+      pivot: {x: 0.4, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_008
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1299
+        width: 128
+        height: 122
+      alignment: 9
+      pivot: {x: 0.34375, y: 0.48360655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_010
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 412
+        width: 137
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3211679, y: 0.5090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_012
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 574
+        width: 132
+        height: 97
+      alignment: 9
+      pivot: {x: 0.29545453, y: 0.742268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_014
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 474
+        width: 131
+        height: 99
+      alignment: 9
+      pivot: {x: 0.2977099, y: 0.67676765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_016
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 753
+        width: 144
+        height: 115
+      alignment: 9
+      pivot: {x: 0.27083334, y: 0.7217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_018
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 672
+        width: 144
+        height: 105
+      alignment: 9
+      pivot: {x: 0.27083334, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_020
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 523
+        width: 144
+        height: 112
+      alignment: 9
+      pivot: {x: 0.27083334, y: 0.6785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_022
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 399
+        width: 144
+        height: 121
+      alignment: 9
+      pivot: {x: 0.27083334, y: 0.6942149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_024
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1192
+        width: 148
+        height: 105
+      alignment: 9
+      pivot: {x: 0.2635135, y: 0.63809526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_026
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1088
+        width: 148
+        height: 103
+      alignment: 9
+      pivot: {x: 0.2635135, y: 0.66019416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_028
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 778
+        width: 148
+        height: 105
+      alignment: 9
+      pivot: {x: 0.2635135, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_225_030
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 980
+        width: 148
+        height: 107
+      alignment: 9
+      pivot: {x: 0.2635135, y: 0.6728972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_000
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 383
+        width: 75
+        height: 125
+      alignment: 9
+      pivot: {x: 0.58666664, y: 0.408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_002
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 509
+        width: 78
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5641026, y: 0.416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_004
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 92
+        height: 126
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.43650794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_006
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 257
+        width: 101
+        height: 133
+      alignment: 9
+      pivot: {x: 0.42574257, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_008
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 635
+        width: 104
+        height: 134
+      alignment: 9
+      pivot: {x: 0.41346154, y: 0.41791046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_010
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 101
+        height: 124
+      alignment: 9
+      pivot: {x: 0.41584158, y: 0.45967743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_012
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 82
+        width: 100
+        height: 123
+      alignment: 9
+      pivot: {x: 0.37, y: 0.63414633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_014
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 135
+        width: 101
+        height: 121
+      alignment: 9
+      pivot: {x: 0.35643566, y: 0.6280992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_016
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 122
+        width: 103
+        height: 120
+      alignment: 9
+      pivot: {x: 0.36893204, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_018
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1660
+        width: 109
+        height: 139
+      alignment: 9
+      pivot: {x: 0.35779816, y: 0.5827338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_020
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1800
+        width: 121
+        height: 117
+      alignment: 9
+      pivot: {x: 0.38842976, y: 0.4957265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_022
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 779
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.375, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_024
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 900
+        width: 113
+        height: 128
+      alignment: 9
+      pivot: {x: 0.38053098, y: 0.5390625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_026
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 219
+        width: 106
+        height: 133
+      alignment: 9
+      pivot: {x: 0.33962265, y: 0.556391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_028
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 124
+        width: 101
+        height: 141
+      alignment: 9
+      pivot: {x: 0.35643566, y: 0.5886525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_270_030
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 391
+        width: 103
+        height: 132
+      alignment: 9
+      pivot: {x: 0.34951457, y: 0.56060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_000
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 634
+        width: 51
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.49305555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_002
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 207
+        width: 53
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5660377, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_004
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 598
+        width: 84
+        height: 144
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_006
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 743
+        width: 81
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5308642, y: 0.5170068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_008
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 222
+        width: 96
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5241379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_010
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 266
+        width: 113
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6106195, y: 0.5681818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_012
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1194
+        width: 150
+        height: 104
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_014
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1181
+        width: 145
+        height: 102
+      alignment: 9
+      pivot: {x: 0.57931036, y: 0.627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_016
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1226
+        width: 159
+        height: 102
+      alignment: 9
+      pivot: {x: 0.509434, y: 0.627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_018
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1182
+        width: 151
+        height: 118
+      alignment: 9
+      pivot: {x: 0.589404, y: 0.5423729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_020
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1537
+        width: 162
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5802469, y: 0.5614035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_022
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 521
+        width: 152
+        height: 118
+      alignment: 9
+      pivot: {x: 0.625, y: 0.5423729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_024
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1423
+        width: 161
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5962733, y: 0.5423729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_026
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1062
+        width: 144
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.5423729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_028
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 768
+        width: 148
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49324325, y: 0.60952383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Death_315_030
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1089
+        width: 150
+        height: 104
+      alignment: 9
+      pivot: {x: 0.48666668, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cowboy_Winchester_Death_000_014: 21300014
+      Cowboy_Winchester_Death_180_024: 21300152
+      Cowboy_Winchester_Death_270_018: 21300210
+      Cowboy_Winchester_Death_045_026: 21300058
+      Cowboy_Winchester_Death_270_012: 21300204
+      Cowboy_Winchester_Death_045_018: 21300050
+      Cowboy_Winchester_Death_090_020: 21300084
+      Cowboy_Winchester_Death_135_024: 21300120
+      Cowboy_Winchester_Death_315_030: 21300254
+      Cowboy_Winchester_Death_045_016: 21300048
+      Cowboy_Winchester_Death_000_020: 21300020
+      Cowboy_Winchester_Death_045_004: 21300036
+      Cowboy_Winchester_Death_045_028: 21300060
+      Cowboy_Winchester_Death_315_020: 21300244
+      Cowboy_Winchester_Death_045_030: 21300062
+      Cowboy_Winchester_Death_090_026: 21300090
+      Cowboy_Winchester_Death_225_002: 21300162
+      Cowboy_Winchester_Death_135_030: 21300126
+      Cowboy_Winchester_Death_090_030: 21300094
+      Cowboy_Winchester_Death_225_022: 21300182
+      Cowboy_Winchester_Death_045_014: 21300046
+      Cowboy_Winchester_Death_315_022: 21300246
+      Cowboy_Winchester_Death_225_024: 21300184
+      Cowboy_Winchester_Death_315_000: 21300224
+      Cowboy_Winchester_Death_270_030: 21300222
+      Cowboy_Winchester_Death_135_026: 21300122
+      Cowboy_Winchester_Death_225_018: 21300178
+      Cowboy_Winchester_Death_315_012: 21300236
+      Cowboy_Winchester_Death_135_006: 21300102
+      Cowboy_Winchester_Death_090_024: 21300088
+      Cowboy_Winchester_Death_315_026: 21300250
+      Cowboy_Winchester_Death_045_010: 21300042
+      Cowboy_Winchester_Death_090_002: 21300066
+      Cowboy_Winchester_Death_270_020: 21300212
+      Cowboy_Winchester_Death_315_016: 21300240
+      Cowboy_Winchester_Death_135_028: 21300124
+      Cowboy_Winchester_Death_000_012: 21300012
+      Cowboy_Winchester_Death_180_010: 21300138
+      Cowboy_Winchester_Death_225_010: 21300170
+      Cowboy_Winchester_Death_270_028: 21300220
+      Cowboy_Winchester_Death_135_002: 21300098
+      Cowboy_Winchester_Death_135_022: 21300118
+      Cowboy_Winchester_Death_225_004: 21300164
+      Cowboy_Winchester_Death_090_010: 21300074
+      Cowboy_Winchester_Death_315_028: 21300252
+      Cowboy_Winchester_Death_045_024: 21300056
+      Cowboy_Winchester_Death_090_008: 21300072
+      Cowboy_Winchester_Death_180_018: 21300146
+      Cowboy_Winchester_Death_045_020: 21300052
+      Cowboy_Winchester_Death_135_012: 21300108
+      Cowboy_Winchester_Death_225_030: 21300190
+      Cowboy_Winchester_Death_000_018: 21300018
+      Cowboy_Winchester_Death_180_028: 21300156
+      Cowboy_Winchester_Death_180_014: 21300142
+      Cowboy_Winchester_Death_270_002: 21300194
+      Cowboy_Winchester_Death_045_012: 21300044
+      Cowboy_Winchester_Death_180_012: 21300140
+      Cowboy_Winchester_Death_180_022: 21300150
+      Cowboy_Winchester_Death_090_014: 21300078
+      Cowboy_Winchester_Death_180_030: 21300158
+      Cowboy_Winchester_Death_180_004: 21300132
+      Cowboy_Winchester_Death_090_018: 21300082
+      Cowboy_Winchester_Death_135_018: 21300114
+      Cowboy_Winchester_Death_270_016: 21300208
+      Cowboy_Winchester_Death_270_022: 21300214
+      Cowboy_Winchester_Death_000_002: 21300002
+      Cowboy_Winchester_Death_090_012: 21300076
+      Cowboy_Winchester_Death_315_018: 21300242
+      Cowboy_Winchester_Death_315_002: 21300226
+      Cowboy_Winchester_Death_270_026: 21300218
+      Cowboy_Winchester_Death_045_000: 21300032
+      Cowboy_Winchester_Death_000_030: 21300030
+      Cowboy_Winchester_Death_135_020: 21300116
+      Cowboy_Winchester_Death_225_006: 21300166
+      Cowboy_Winchester_Death_315_024: 21300248
+      Cowboy_Winchester_Death_180_006: 21300134
+      Cowboy_Winchester_Death_135_000: 21300096
+      Cowboy_Winchester_Death_315_004: 21300228
+      Cowboy_Winchester_Death_270_000: 21300192
+      Cowboy_Winchester_Death_225_020: 21300180
+      Cowboy_Winchester_Death_315_014: 21300238
+      Cowboy_Winchester_Death_000_004: 21300004
+      Cowboy_Winchester_Death_090_016: 21300080
+      Cowboy_Winchester_Death_225_028: 21300188
+      Cowboy_Winchester_Death_000_006: 21300006
+      Cowboy_Winchester_Death_180_026: 21300154
+      Cowboy_Winchester_Death_135_016: 21300112
+      Cowboy_Winchester_Death_135_010: 21300106
+      Cowboy_Winchester_Death_045_008: 21300040
+      Cowboy_Winchester_Death_090_004: 21300068
+      Cowboy_Winchester_Death_225_026: 21300186
+      Cowboy_Winchester_Death_045_006: 21300038
+      Cowboy_Winchester_Death_180_016: 21300144
+      Cowboy_Winchester_Death_270_024: 21300216
+      Cowboy_Winchester_Death_090_022: 21300086
+      Cowboy_Winchester_Death_000_026: 21300026
+      Cowboy_Winchester_Death_000_028: 21300028
+      Cowboy_Winchester_Death_090_028: 21300092
+      Cowboy_Winchester_Death_270_010: 21300202
+      Cowboy_Winchester_Death_270_008: 21300200
+      Cowboy_Winchester_Death_315_010: 21300234
+      Cowboy_Winchester_Death_180_020: 21300148
+      Cowboy_Winchester_Death_000_024: 21300024
+      Cowboy_Winchester_Death_270_014: 21300206
+      Cowboy_Winchester_Death_315_006: 21300230
+      Cowboy_Winchester_Death_045_002: 21300034
+      Cowboy_Winchester_Death_180_008: 21300136
+      Cowboy_Winchester_Death_090_000: 21300064
+      Cowboy_Winchester_Death_225_016: 21300176
+      Cowboy_Winchester_Death_225_000: 21300160
+      Cowboy_Winchester_Death_315_008: 21300232
+      Cowboy_Winchester_Death_000_022: 21300022
+      Cowboy_Winchester_Death_135_004: 21300100
+      Cowboy_Winchester_Death_000_016: 21300016
+      Cowboy_Winchester_Death_225_012: 21300172
+      Cowboy_Winchester_Death_000_000: 21300000
+      Cowboy_Winchester_Death_225_014: 21300174
+      Cowboy_Winchester_Death_225_008: 21300168
+      Cowboy_Winchester_Death_135_008: 21300104
+      Cowboy_Winchester_Death_000_010: 21300010
+      Cowboy_Winchester_Death_090_006: 21300070
+      Cowboy_Winchester_Death_135_014: 21300110
+      Cowboy_Winchester_Death_180_002: 21300130
+      Cowboy_Winchester_Death_045_022: 21300054
+      Cowboy_Winchester_Death_180_000: 21300128
+      Cowboy_Winchester_Death_000_008: 21300008
+      Cowboy_Winchester_Death_270_004: 21300196
+      Cowboy_Winchester_Death_270_006: 21300198
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

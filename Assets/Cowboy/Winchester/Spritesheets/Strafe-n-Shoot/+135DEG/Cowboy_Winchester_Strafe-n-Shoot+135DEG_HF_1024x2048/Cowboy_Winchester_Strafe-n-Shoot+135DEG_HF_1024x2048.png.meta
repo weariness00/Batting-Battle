@@ -1,0 +1,3098 @@
+fileFormatVersion: 2
+guid: a6e1c3ef609abc148a78f2fc3ac3dc97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_000
+  - first:
+      213: 21300002
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_002
+  - first:
+      213: 21300004
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_005
+  - first:
+      213: 21300006
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_006
+  - first:
+      213: 21300008
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_008
+  - first:
+      213: 21300010
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_010
+  - first:
+      213: 21300012
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_012
+  - first:
+      213: 21300014
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_014
+  - first:
+      213: 21300016
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_016
+  - first:
+      213: 21300018
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_018
+  - first:
+      213: 21300020
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_020
+  - first:
+      213: 21300022
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_022
+  - first:
+      213: 21300024
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_024
+  - first:
+      213: 21300026
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_026
+  - first:
+      213: 21300028
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_028
+  - first:
+      213: 21300030
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_000
+  - first:
+      213: 21300032
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_002
+  - first:
+      213: 21300034
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_005
+  - first:
+      213: 21300036
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_006
+  - first:
+      213: 21300038
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_008
+  - first:
+      213: 21300040
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_010
+  - first:
+      213: 21300042
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_012
+  - first:
+      213: 21300044
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_014
+  - first:
+      213: 21300046
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_016
+  - first:
+      213: 21300048
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_018
+  - first:
+      213: 21300050
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_020
+  - first:
+      213: 21300052
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_022
+  - first:
+      213: 21300054
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_024
+  - first:
+      213: 21300056
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_026
+  - first:
+      213: 21300058
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_028
+  - first:
+      213: 21300060
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_000
+  - first:
+      213: 21300062
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_002
+  - first:
+      213: 21300064
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_005
+  - first:
+      213: 21300066
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_006
+  - first:
+      213: 21300068
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_008
+  - first:
+      213: 21300070
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_010
+  - first:
+      213: 21300072
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_012
+  - first:
+      213: 21300074
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_014
+  - first:
+      213: 21300076
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_016
+  - first:
+      213: 21300078
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_018
+  - first:
+      213: 21300080
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_020
+  - first:
+      213: 21300082
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_022
+  - first:
+      213: 21300084
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_024
+  - first:
+      213: 21300086
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_026
+  - first:
+      213: 21300088
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_028
+  - first:
+      213: 21300090
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_000
+  - first:
+      213: 21300092
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_002
+  - first:
+      213: 21300094
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_005
+  - first:
+      213: 21300096
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_006
+  - first:
+      213: 21300098
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_008
+  - first:
+      213: 21300100
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_010
+  - first:
+      213: 21300102
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_012
+  - first:
+      213: 21300104
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_014
+  - first:
+      213: 21300106
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_016
+  - first:
+      213: 21300108
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_018
+  - first:
+      213: 21300110
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_020
+  - first:
+      213: 21300112
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_022
+  - first:
+      213: 21300114
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_024
+  - first:
+      213: 21300116
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_026
+  - first:
+      213: 21300118
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_028
+  - first:
+      213: 21300120
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_000
+  - first:
+      213: 21300122
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_002
+  - first:
+      213: 21300124
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_005
+  - first:
+      213: 21300126
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_006
+  - first:
+      213: 21300128
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_008
+  - first:
+      213: 21300130
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_010
+  - first:
+      213: 21300132
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_012
+  - first:
+      213: 21300134
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_014
+  - first:
+      213: 21300136
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_016
+  - first:
+      213: 21300138
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_018
+  - first:
+      213: 21300140
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_020
+  - first:
+      213: 21300142
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_022
+  - first:
+      213: 21300144
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_024
+  - first:
+      213: 21300146
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_026
+  - first:
+      213: 21300148
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_028
+  - first:
+      213: 21300150
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_000
+  - first:
+      213: 21300152
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_002
+  - first:
+      213: 21300154
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_005
+  - first:
+      213: 21300156
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_006
+  - first:
+      213: 21300158
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_008
+  - first:
+      213: 21300160
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_010
+  - first:
+      213: 21300162
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_012
+  - first:
+      213: 21300164
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_014
+  - first:
+      213: 21300166
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_016
+  - first:
+      213: 21300168
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_018
+  - first:
+      213: 21300170
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_020
+  - first:
+      213: 21300172
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_022
+  - first:
+      213: 21300174
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_024
+  - first:
+      213: 21300176
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_026
+  - first:
+      213: 21300178
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_028
+  - first:
+      213: 21300180
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_000
+  - first:
+      213: 21300182
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_002
+  - first:
+      213: 21300184
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_005
+  - first:
+      213: 21300186
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_006
+  - first:
+      213: 21300188
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_008
+  - first:
+      213: 21300190
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_010
+  - first:
+      213: 21300192
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_012
+  - first:
+      213: 21300194
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_014
+  - first:
+      213: 21300196
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_016
+  - first:
+      213: 21300198
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_018
+  - first:
+      213: 21300200
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_020
+  - first:
+      213: 21300202
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_022
+  - first:
+      213: 21300204
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_024
+  - first:
+      213: 21300206
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_026
+  - first:
+      213: 21300208
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_028
+  - first:
+      213: 21300210
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_000
+  - first:
+      213: 21300212
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_002
+  - first:
+      213: 21300214
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_005
+  - first:
+      213: 21300216
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_006
+  - first:
+      213: 21300218
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_008
+  - first:
+      213: 21300220
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_010
+  - first:
+      213: 21300222
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_012
+  - first:
+      213: 21300224
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_014
+  - first:
+      213: 21300226
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_016
+  - first:
+      213: 21300228
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_018
+  - first:
+      213: 21300230
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_020
+  - first:
+      213: 21300232
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_022
+  - first:
+      213: 21300234
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_024
+  - first:
+      213: 21300236
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_026
+  - first:
+      213: 21300238
+    second: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_028
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_000
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1333
+        width: 80
+        height: 127
+      alignment: 9
+      pivot: {x: 0.55, y: 0.46456692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_002
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 195
+        width: 80
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.48360655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1829
+        width: 185
+        height: 217
+      alignment: 9
+      pivot: {x: 0.8216216, y: 0.2718894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1610
+        width: 184
+        height: 217
+      alignment: 9
+      pivot: {x: 0.82608694, y: 0.2718894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1031
+        width: 166
+        height: 196
+      alignment: 9
+      pivot: {x: 0.8192771, y: 0.3010204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_010
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1067
+        width: 81
+        height: 194
+      alignment: 9
+      pivot: {x: 0.6296296, y: 0.3041237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_012
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1263
+        width: 89
+        height: 199
+      alignment: 9
+      pivot: {x: 0.64044946, y: 0.31658292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_014
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1041
+        width: 97
+        height: 198
+      alignment: 9
+      pivot: {x: 0.6494845, y: 0.35858586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_016
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 856
+        width: 92
+        height: 173
+      alignment: 9
+      pivot: {x: 0.6304348, y: 0.38728324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_018
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 467
+        width: 85
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5764706, y: 0.41843972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_020
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 372
+        width: 86
+        height: 126
+      alignment: 9
+      pivot: {x: 0.55813956, y: 0.46825397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_022
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 29
+        width: 87
+        height: 123
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.4796748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_024
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 567
+        width: 88
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5568182, y: 0.472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_026
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 485
+        width: 88
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5681818, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_028
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 347
+        width: 86
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5697674, y: 0.4651163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_000
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 428
+        width: 107
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6728972, y: 0.46969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_002
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1249
+        width: 106
+        height: 129
+      alignment: 9
+      pivot: {x: 0.6509434, y: 0.48062015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_005
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1729
+        width: 234
+        height: 130
+      alignment: 9
+      pivot: {x: 0.8418803, y: 0.47692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_006
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1597
+        width: 232
+        height: 130
+      alignment: 9
+      pivot: {x: 0.8491379, y: 0.47692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 685
+        width: 199
+        height: 164
+      alignment: 9
+      pivot: {x: 0.8442211, y: 0.38414633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_010
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 664
+        width: 67
+        height: 190
+      alignment: 9
+      pivot: {x: 0.53731346, y: 0.3631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_012
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1031
+        width: 73
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5753425, y: 0.3877551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_014
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 852
+        width: 93
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.43850267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_016
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 40
+        width: 108
+        height: 150
+      alignment: 9
+      pivot: {x: 0.7037037, y: 0.48666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_018
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1464
+        width: 110
+        height: 131
+      alignment: 9
+      pivot: {x: 0.7181818, y: 0.47328246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_020
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1730
+        width: 117
+        height: 130
+      alignment: 9
+      pivot: {x: 0.64102566, y: 0.47692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_022
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1658
+        width: 115
+        height: 132
+      alignment: 9
+      pivot: {x: 0.6434783, y: 0.47727272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_024
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1654
+        width: 113
+        height: 136
+      alignment: 9
+      pivot: {x: 0.6460177, y: 0.4779412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_026
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1387
+        width: 107
+        height: 139
+      alignment: 9
+      pivot: {x: 0.69158876, y: 0.4820144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_028
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1248
+        width: 107
+        height: 137
+      alignment: 9
+      pivot: {x: 0.682243, y: 0.47445256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_000
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1597
+        width: 100
+        height: 130
+      alignment: 9
+      pivot: {x: 0.73, y: 0.46923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_002
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 226
+        width: 95
+        height: 127
+      alignment: 9
+      pivot: {x: 0.7157895, y: 0.48031497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 528
+        width: 196
+        height: 155
+      alignment: 9
+      pivot: {x: 0.8622449, y: 0.58064514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 196
+        height: 155
+      alignment: 9
+      pivot: {x: 0.8622449, y: 0.58064514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_008
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1900
+        width: 168
+        height: 146
+      alignment: 9
+      pivot: {x: 0.83928573, y: 0.5410959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_010
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1080
+        width: 69
+        height: 181
+      alignment: 9
+      pivot: {x: 0.6086956, y: 0.44751382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_012
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1278
+        width: 79
+        height: 184
+      alignment: 9
+      pivot: {x: 0.65822786, y: 0.48369566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_014
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 562
+        width: 100
+        height: 163
+      alignment: 9
+      pivot: {x: 0.73, y: 0.5766871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_016
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 193
+        width: 111
+        height: 152
+      alignment: 9
+      pivot: {x: 0.7567568, y: 0.55921054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_018
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1121
+        width: 106
+        height: 126
+      alignment: 9
+      pivot: {x: 0.745283, y: 0.48412699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_020
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 993
+        width: 101
+        height: 126
+      alignment: 9
+      pivot: {x: 0.7326733, y: 0.48412699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_022
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 821
+        width: 98
+        height: 129
+      alignment: 9
+      pivot: {x: 0.7244898, y: 0.48062015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_024
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 195
+        width: 96
+        height: 133
+      alignment: 9
+      pivot: {x: 0.71875, y: 0.48120302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_026
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1380
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.71875, y: 0.5069444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_028
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 903
+        width: 97
+        height: 144
+      alignment: 9
+      pivot: {x: 0.72164947, y: 0.5069444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_000
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 172
+        width: 60
+        height: 127
+      alignment: 9
+      pivot: {x: 0.45, y: 0.4566929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_002
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 45
+        width: 60
+        height: 125
+      alignment: 9
+      pivot: {x: 0.45, y: 0.464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_005
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1241
+        width: 76
+        height: 221
+      alignment: 9
+      pivot: {x: 0.56578946, y: 0.7013575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_006
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1241
+        width: 76
+        height: 221
+      alignment: 9
+      pivot: {x: 0.56578946, y: 0.7013575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_008
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 468
+        width: 76
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5394737, y: 0.6546392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_010
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 63
+        width: 70
+        height: 151
+      alignment: 9
+      pivot: {x: 0.3857143, y: 0.4370861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_012
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 610
+        width: 79
+        height: 143
+      alignment: 9
+      pivot: {x: 0.34177214, y: 0.4755245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_014
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 474
+        width: 87
+        height: 136
+      alignment: 9
+      pivot: {x: 0.3678161, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_016
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 319
+        width: 79
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4050633, y: 0.48818898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_018
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 955
+        width: 61
+        height: 122
+      alignment: 9
+      pivot: {x: 0.45901638, y: 0.47540984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_020
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 831
+        width: 62
+        height: 122
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.47540984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_022
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1079
+        width: 60
+        height: 124
+      alignment: 9
+      pivot: {x: 0.45, y: 0.46774194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_024
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 66
+        width: 65
+        height: 127
+      alignment: 9
+      pivot: {x: 0.47692308, y: 0.46456692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_026
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1599
+        width: 67
+        height: 130
+      alignment: 9
+      pivot: {x: 0.43283582, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_028
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1464
+        width: 62
+        height: 131
+      alignment: 9
+      pivot: {x: 0.43548387, y: 0.45801526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_000
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 154
+        width: 84
+        height: 134
+      alignment: 9
+      pivot: {x: 0.44047618, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_002
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 66
+        width: 83
+        height: 133
+      alignment: 9
+      pivot: {x: 0.43373495, y: 0.49624062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1229
+        width: 178
+        height: 188
+      alignment: 9
+      pivot: {x: 0.19101124, y: 0.64893615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1419
+        width: 178
+        height: 189
+      alignment: 9
+      pivot: {x: 0.19101124, y: 0.6455026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_008
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1731
+        width: 163
+        height: 167
+      alignment: 9
+      pivot: {x: 0.20245399, y: 0.5928144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_010
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 192
+        width: 83
+        height: 153
+      alignment: 9
+      pivot: {x: 0.39759037, y: 0.43137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_012
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 612
+        width: 92
+        height: 141
+      alignment: 9
+      pivot: {x: 0.38043478, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_014
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1179
+        width: 99
+        height: 132
+      alignment: 9
+      pivot: {x: 0.37373737, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_016
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 355
+        width: 93
+        height: 128
+      alignment: 9
+      pivot: {x: 0.39784947, y: 0.515625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_018
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 97
+        width: 92
+        height: 127
+      alignment: 9
+      pivot: {x: 0.42391303, y: 0.51968503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_020
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1049
+        width: 99
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.515625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_022
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 952
+        width: 97
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4742268, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_024
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 61
+        width: 93
+        height: 132
+      alignment: 9
+      pivot: {x: 0.4408602, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_026
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 330
+        width: 93
+        height: 135
+      alignment: 9
+      pivot: {x: 0.43010753, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_028
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 290
+        width: 91
+        height: 136
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_000
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1526
+        width: 117
+        height: 126
+      alignment: 9
+      pivot: {x: 0.2991453, y: 0.45238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_002
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1121
+        width: 116
+        height: 125
+      alignment: 9
+      pivot: {x: 0.31896552, y: 0.456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_005
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1920
+        width: 245
+        height: 126
+      alignment: 9
+      pivot: {x: 0.14693877, y: 0.45238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_006
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1792
+        width: 243
+        height: 126
+      alignment: 9
+      pivot: {x: 0.1399177, y: 0.45238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_008
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1464
+        width: 209
+        height: 131
+      alignment: 9
+      pivot: {x: 0.13875598, y: 0.4351145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_010
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 29
+        width: 77
+        height: 162
+      alignment: 9
+      pivot: {x: 0.37662336, y: 0.35185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_012
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 216
+        width: 80
+        height: 154
+      alignment: 9
+      pivot: {x: 0.3625, y: 0.37012988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_014
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 862
+        width: 104
+        height: 129
+      alignment: 9
+      pivot: {x: 0.28846154, y: 0.44186047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_016
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 997
+        width: 121
+        height: 122
+      alignment: 9
+      pivot: {x: 0.25619835, y: 0.46721312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_018
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 874
+        width: 119
+        height: 121
+      alignment: 9
+      pivot: {x: 0.24369748, y: 0.47107437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_020
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1479
+        width: 116
+        height: 121
+      alignment: 9
+      pivot: {x: 0.25862068, y: 0.47107437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_022
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 737
+        width: 114
+        height: 123
+      alignment: 9
+      pivot: {x: 0.27192983, y: 0.4715447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_024
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 694
+        width: 115
+        height: 125
+      alignment: 9
+      pivot: {x: 0.27826086, y: 0.456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_026
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1602
+        width: 116
+        height: 127
+      alignment: 9
+      pivot: {x: 0.28448275, y: 0.4488189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_028
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1528
+        width: 118
+        height: 128
+      alignment: 9
+      pivot: {x: 0.29661018, y: 0.4453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_000
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 755
+        width: 96
+        height: 117
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_002
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 448
+        width: 92
+        height: 117
+      alignment: 9
+      pivot: {x: 0.3478261, y: 0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_005
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1862
+        width: 206
+        height: 184
+      alignment: 9
+      pivot: {x: 0.1553398, y: 0.26630434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_006
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1861
+        width: 206
+        height: 185
+      alignment: 9
+      pivot: {x: 0.1553398, y: 0.27027026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 851
+        width: 175
+        height: 178
+      alignment: 9
+      pivot: {x: 0.18285714, y: 0.28651685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_010
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 898
+        width: 71
+        height: 180
+      alignment: 9
+      pivot: {x: 0.45070422, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_012
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 670
+        width: 82
+        height: 180
+      alignment: 9
+      pivot: {x: 0.3902439, y: 0.31666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_014
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 727
+        width: 99
+        height: 169
+      alignment: 9
+      pivot: {x: 0.32323232, y: 0.34911242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_016
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1313
+        width: 107
+        height: 149
+      alignment: 9
+      pivot: {x: 0.2990654, y: 0.39597315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_018
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1348
+        width: 101
+        height: 129
+      alignment: 9
+      pivot: {x: 0.31683168, y: 0.43410853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_020
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 97
+        height: 135
+      alignment: 9
+      pivot: {x: 0.3298969, y: 0.5037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_022
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1084
+        width: 94
+        height: 132
+      alignment: 9
+      pivot: {x: 0.34042552, y: 0.49242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_024
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1218
+        width: 92
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3478261, y: 0.4609375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_026
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 568
+        width: 92
+        height: 124
+      alignment: 9
+      pivot: {x: 0.3478261, y: 0.42741936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_028
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 615
+        width: 93
+        height: 120
+      alignment: 9
+      pivot: {x: 0.34408602, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_000
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 301
+        width: 64
+        height: 130
+      alignment: 9
+      pivot: {x: 0.515625, y: 0.4076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_002
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1205
+        width: 64
+        height: 126
+      alignment: 9
+      pivot: {x: 0.515625, y: 0.42063493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 109
+        width: 71
+        height: 260
+      alignment: 9
+      pivot: {x: 0.46478873, y: 0.20384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_006
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 109
+        width: 71
+        height: 260
+      alignment: 9
+      pivot: {x: 0.46478873, y: 0.20384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_008
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 139
+        width: 71
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0.23043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_010
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 877
+        width: 75
+        height: 188
+      alignment: 9
+      pivot: {x: 0.58666664, y: 0.2819149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_012
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 478
+        width: 86
+        height: 188
+      alignment: 9
+      pivot: {x: 0.6395349, y: 0.2819149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_014
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 668
+        width: 93
+        height: 182
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.2967033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_016
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 500
+        width: 86
+        height: 166
+      alignment: 9
+      pivot: {x: 0.6395349, y: 0.33734939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_018
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 755
+        width: 66
+        height: 146
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_020
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 433
+        width: 64
+        height: 133
+      alignment: 9
+      pivot: {x: 0.515625, y: 0.41353384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_022
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1597
+        width: 64
+        height: 131
+      alignment: 9
+      pivot: {x: 0.515625, y: 0.4274809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_024
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 337
+        width: 65
+        height: 135
+      alignment: 9
+      pivot: {x: 0.52307695, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_026
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1462
+        width: 70
+        height: 135
+      alignment: 9
+      pivot: {x: 0.55714285, y: 0.42222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_028
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 201
+        width: 68
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5441176, y: 0.3955224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_005: 21300034
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_018: 21300048
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_020: 21300080
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_008: 21300158
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_028: 21300148
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_014: 21300104
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_006: 21300216
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_024: 21300054
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_012: 21300072
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_024: 21300114
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_016: 21300076
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_022: 21300022
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_010: 21300160
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_020: 21300170
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_014: 21300164
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_000: 21300090
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_024: 21300174
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_028: 21300118
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_005: 21300214
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_002: 21300182
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_010: 21300010
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_000: 21300210
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_005: 21300004
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_008: 21300128
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_020: 21300140
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_026: 21300176
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_010: 21300220
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_024: 21300234
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_014: 21300224
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_014: 21300134
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_018: 21300168
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_000: 21300120
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_018: 21300018
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_010: 21300190
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_012: 21300192
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_018: 21300138
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_014: 21300044
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_022: 21300082
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_028: 21300088
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_026: 21300146
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_008: 21300098
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_024: 21300084
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_008: 21300188
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_010: 21300070
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_000: 21300000
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_022: 21300172
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_010: 21300130
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_028: 21300028
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_006: 21300066
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_005: 21300094
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_006: 21300006
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_006: 21300156
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_012: 21300012
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_012: 21300132
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_024: 21300144
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_002: 21300032
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_014: 21300194
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_028: 21300238
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_022: 21300232
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_005: 21300064
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_020: 21300020
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_016: 21300046
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_014: 21300014
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_026: 21300086
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_026: 21300236
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_008: 21300008
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_008: 21300068
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_000: 21300030
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_006: 21300036
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_028: 21300058
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_008: 21300218
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_006: 21300096
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_026: 21300026
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_018: 21300228
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_022: 21300112
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_016: 21300226
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_012: 21300222
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_020: 21300200
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_002: 21300092
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_002: 21300002
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_002: 21300212
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_016: 21300016
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_000_135_024: 21300024
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_012: 21300042
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_016: 21300136
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_010: 21300100
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_022: 21300142
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_020: 21300050
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_024: 21300204
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_000: 21300150
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_020: 21300110
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_018: 21300198
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_012: 21300102
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_022: 21300202
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_016: 21300106
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_006: 21300126
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_315_090_020: 21300230
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_006: 21300186
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_022: 21300052
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_012: 21300162
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_005: 21300154
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_028: 21300208
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_014: 21300074
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_000: 21300180
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_018: 21300078
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_005: 21300184
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_018: 21300108
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_135_270_026: 21300116
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_026: 21300056
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_008: 21300038
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_000: 21300060
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_016: 21300166
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_090_225_002: 21300062
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_016: 21300196
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_028: 21300178
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_270_045_026: 21300206
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_045_180_010: 21300040
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_225_000_002: 21300152
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_002: 21300122
+      Cowboy_Winchester_Strafe-n-Shoot+135DEG_180_315_005: 21300124
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

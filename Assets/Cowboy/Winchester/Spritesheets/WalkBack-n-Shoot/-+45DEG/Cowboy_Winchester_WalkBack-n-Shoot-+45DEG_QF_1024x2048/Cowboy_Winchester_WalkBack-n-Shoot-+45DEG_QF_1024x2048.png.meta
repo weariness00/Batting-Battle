@@ -1,0 +1,2123 @@
+fileFormatVersion: 2
+guid: b27b4cf38aa9ad34e880c06e8c89bd41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Cowboy_Winchester_Backward_and_Shoot+45_000_225_000
+  - first:
+      213: 21300002
+    second: Cowboy_Winchester_Backward_and_Shoot+45_000_225_004
+  - first:
+      213: 21300004
+    second: Cowboy_Winchester_Backward_and_Shoot+45_000_225_005
+  - first:
+      213: 21300006
+    second: Cowboy_Winchester_Backward_and_Shoot+45_000_225_008
+  - first:
+      213: 21300008
+    second: Cowboy_Winchester_Backward_and_Shoot+45_000_225_012
+  - first:
+      213: 21300010
+    second: Cowboy_Winchester_Backward_and_Shoot+45_000_225_016
+  - first:
+      213: 21300012
+    second: Cowboy_Winchester_Backward_and_Shoot+45_000_225_020
+  - first:
+      213: 21300014
+    second: Cowboy_Winchester_Backward_and_Shoot+45_000_225_024
+  - first:
+      213: 21300016
+    second: Cowboy_Winchester_Backward_and_Shoot+45_000_225_028
+  - first:
+      213: 21300018
+    second: Cowboy_Winchester_Backward_and_Shoot+45_180_045_000
+  - first:
+      213: 21300020
+    second: Cowboy_Winchester_Backward_and_Shoot+45_180_045_004
+  - first:
+      213: 21300022
+    second: Cowboy_Winchester_Backward_and_Shoot+45_180_045_005
+  - first:
+      213: 21300024
+    second: Cowboy_Winchester_Backward_and_Shoot+45_180_045_008
+  - first:
+      213: 21300026
+    second: Cowboy_Winchester_Backward_and_Shoot+45_180_045_012
+  - first:
+      213: 21300028
+    second: Cowboy_Winchester_Backward_and_Shoot+45_180_045_016
+  - first:
+      213: 21300030
+    second: Cowboy_Winchester_Backward_and_Shoot+45_180_045_020
+  - first:
+      213: 21300032
+    second: Cowboy_Winchester_Backward_and_Shoot+45_180_045_024
+  - first:
+      213: 21300034
+    second: Cowboy_Winchester_Backward_and_Shoot+45_180_045_028
+  - first:
+      213: 21300036
+    second: Cowboy_Winchester_Backward_and_Shoot+45_225_090_000
+  - first:
+      213: 21300038
+    second: Cowboy_Winchester_Backward_and_Shoot+45_225_090_004
+  - first:
+      213: 21300040
+    second: Cowboy_Winchester_Backward_and_Shoot+45_225_090_005
+  - first:
+      213: 21300042
+    second: Cowboy_Winchester_Backward_and_Shoot+45_225_090_008
+  - first:
+      213: 21300044
+    second: Cowboy_Winchester_Backward_and_Shoot+45_225_090_012
+  - first:
+      213: 21300046
+    second: Cowboy_Winchester_Backward_and_Shoot+45_225_090_016
+  - first:
+      213: 21300048
+    second: Cowboy_Winchester_Backward_and_Shoot+45_225_090_020
+  - first:
+      213: 21300050
+    second: Cowboy_Winchester_Backward_and_Shoot+45_225_090_024
+  - first:
+      213: 21300052
+    second: Cowboy_Winchester_Backward_and_Shoot+45_225_090_028
+  - first:
+      213: 21300054
+    second: Cowboy_Winchester_Backward_and_Shoot+45_270_135_000
+  - first:
+      213: 21300056
+    second: Cowboy_Winchester_Backward_and_Shoot+45_270_135_004
+  - first:
+      213: 21300058
+    second: Cowboy_Winchester_Backward_and_Shoot+45_270_135_005
+  - first:
+      213: 21300060
+    second: Cowboy_Winchester_Backward_and_Shoot+45_270_135_008
+  - first:
+      213: 21300062
+    second: Cowboy_Winchester_Backward_and_Shoot+45_270_135_012
+  - first:
+      213: 21300064
+    second: Cowboy_Winchester_Backward_and_Shoot+45_270_135_016
+  - first:
+      213: 21300066
+    second: Cowboy_Winchester_Backward_and_Shoot+45_270_135_020
+  - first:
+      213: 21300068
+    second: Cowboy_Winchester_Backward_and_Shoot+45_270_135_024
+  - first:
+      213: 21300070
+    second: Cowboy_Winchester_Backward_and_Shoot+45_270_135_028
+  - first:
+      213: 21300072
+    second: Cowboy_Winchester_Backward_and_Shoot+45_315_180_000
+  - first:
+      213: 21300074
+    second: Cowboy_Winchester_Backward_and_Shoot+45_315_180_004
+  - first:
+      213: 21300076
+    second: Cowboy_Winchester_Backward_and_Shoot+45_315_180_005
+  - first:
+      213: 21300078
+    second: Cowboy_Winchester_Backward_and_Shoot+45_315_180_008
+  - first:
+      213: 21300080
+    second: Cowboy_Winchester_Backward_and_Shoot+45_315_180_012
+  - first:
+      213: 21300082
+    second: Cowboy_Winchester_Backward_and_Shoot+45_315_180_016
+  - first:
+      213: 21300084
+    second: Cowboy_Winchester_Backward_and_Shoot+45_315_180_020
+  - first:
+      213: 21300086
+    second: Cowboy_Winchester_Backward_and_Shoot+45_315_180_024
+  - first:
+      213: 21300088
+    second: Cowboy_Winchester_Backward_and_Shoot+45_315_180_028
+  - first:
+      213: 21300090
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_000
+  - first:
+      213: 21300092
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_004
+  - first:
+      213: 21300094
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_005
+  - first:
+      213: 21300096
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_008
+  - first:
+      213: 21300098
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_012
+  - first:
+      213: 21300100
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_016
+  - first:
+      213: 21300102
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_020
+  - first:
+      213: 21300104
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_024
+  - first:
+      213: 21300106
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_028
+  - first:
+      213: 21300108
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_000
+  - first:
+      213: 21300110
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_004
+  - first:
+      213: 21300112
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_006
+  - first:
+      213: 21300114
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_008
+  - first:
+      213: 21300116
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_012
+  - first:
+      213: 21300118
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_016
+  - first:
+      213: 21300120
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_020
+  - first:
+      213: 21300122
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_024
+  - first:
+      213: 21300124
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_028
+  - first:
+      213: 21300126
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_000
+  - first:
+      213: 21300128
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_004
+  - first:
+      213: 21300130
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_005
+  - first:
+      213: 21300132
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_008
+  - first:
+      213: 21300134
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_012
+  - first:
+      213: 21300136
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_016
+  - first:
+      213: 21300138
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_020
+  - first:
+      213: 21300140
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_024
+  - first:
+      213: 21300142
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_028
+  - first:
+      213: 21300144
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_000
+  - first:
+      213: 21300146
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_004
+  - first:
+      213: 21300148
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_005
+  - first:
+      213: 21300150
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_008
+  - first:
+      213: 21300152
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_012
+  - first:
+      213: 21300154
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_016
+  - first:
+      213: 21300156
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_020
+  - first:
+      213: 21300158
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_024
+  - first:
+      213: 21300160
+    second: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_028
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_000_225_000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1923
+        width: 102
+        height: 125
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0.448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_000_225_004
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1932
+        width: 102
+        height: 116
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_000_225_005
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1886
+        width: 224
+        height: 162
+      alignment: 9
+      pivot: {x: 0.82589287, y: 0.6419753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_000_225_008
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1896
+        width: 196
+        height: 152
+      alignment: 9
+      pivot: {x: 0.8010204, y: 0.56578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_000_225_012
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1892
+        width: 84
+        height: 156
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_000_225_016
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1920
+        width: 121
+        height: 128
+      alignment: 9
+      pivot: {x: 0.661157, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_000_225_020
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1915
+        width: 110
+        height: 133
+      alignment: 9
+      pivot: {x: 0.6454545, y: 0.48872182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_000_225_024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1738
+        width: 106
+        height: 144
+      alignment: 9
+      pivot: {x: 0.6226415, y: 0.5069444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_000_225_028
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1740
+        width: 108
+        height: 142
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.5070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_180_045_000
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1760
+        width: 96
+        height: 122
+      alignment: 9
+      pivot: {x: 0.36458334, y: 0.4262295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_180_045_004
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1751
+        width: 94
+        height: 131
+      alignment: 9
+      pivot: {x: 0.38297874, y: 0.4427481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_180_045_005
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1684
+        width: 219
+        height: 198
+      alignment: 9
+      pivot: {x: 0.15981735, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_180_045_008
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1694
+        width: 187
+        height: 188
+      alignment: 9
+      pivot: {x: 0.171123, y: 0.35106382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_180_045_012
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1714
+        width: 82
+        height: 168
+      alignment: 9
+      pivot: {x: 0.37804878, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_180_045_016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1545
+        width: 114
+        height: 135
+      alignment: 9
+      pivot: {x: 0.2982456, y: 0.43703705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_180_045_020
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1560
+        width: 99
+        height: 120
+      alignment: 9
+      pivot: {x: 0.3131313, y: 0.43333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_180_045_024
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1561
+        width: 95
+        height: 119
+      alignment: 9
+      pivot: {x: 0.3263158, y: 0.4369748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_180_045_028
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1559
+        width: 95
+        height: 121
+      alignment: 9
+      pivot: {x: 0.3263158, y: 0.42975205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_225_090_000
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1544
+        width: 69
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.45588234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_225_090_004
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1547
+        width: 69
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.46616542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_225_090_005
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1411
+        width: 82
+        height: 269
+      alignment: 9
+      pivot: {x: 0.42682928, y: 0.23048328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_225_090_008
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1436
+        width: 84
+        height: 244
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.2581967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_225_090_012
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1492
+        width: 69
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.3617021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_225_090_016
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1508
+        width: 71
+        height: 172
+      alignment: 9
+      pivot: {x: 0.49295774, y: 0.40697673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_225_090_020
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1540
+        width: 70
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_225_090_024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1266
+        width: 76
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4397163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_225_090_028
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1269
+        width: 79
+        height: 138
+      alignment: 9
+      pivot: {x: 0.56962025, y: 0.44927537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_270_135_000
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1279
+        width: 78
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5641026, y: 0.4609375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_270_135_004
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1281
+        width: 89
+        height: 126
+      alignment: 9
+      pivot: {x: 0.58426964, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_270_135_005
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1178
+        width: 192
+        height: 229
+      alignment: 9
+      pivot: {x: 0.8072917, y: 0.27510917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_270_135_008
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1201
+        width: 172
+        height: 206
+      alignment: 9
+      pivot: {x: 0.76744187, y: 0.30582523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_270_135_012
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1221
+        width: 74
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.33870968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_270_135_016
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1245
+        width: 69
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_270_135_020
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1272
+        width: 74
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5540541, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_270_135_024
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1264
+        width: 74
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.5034965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_270_135_028
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1039
+        width: 73
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5479452, y: 0.4962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_315_180_000
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1038
+        width: 125
+        height: 136
+      alignment: 9
+      pivot: {x: 0.672, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_315_180_004
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1048
+        width: 131
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6870229, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_315_180_005
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1044
+        width: 278
+        height: 130
+      alignment: 9
+      pivot: {x: 0.85251796, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_315_180_008
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1010
+        width: 250
+        height: 164
+      alignment: 9
+      pivot: {x: 0.832, y: 0.40243903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_315_180_012
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 989
+        width: 82
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0.36216217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_315_180_016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 839
+        width: 115
+        height: 146
+      alignment: 9
+      pivot: {x: 0.71304345, y: 0.45890412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_315_180_020
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 833
+        width: 120
+        height: 152
+      alignment: 9
+      pivot: {x: 0.725, y: 0.5394737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_315_180_024
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 826
+        width: 117
+        height: 159
+      alignment: 9
+      pivot: {x: 0.7094017, y: 0.5597484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Backward_and_Shoot+45_315_180_028
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 828
+        width: 117
+        height: 157
+      alignment: 9
+      pivot: {x: 0.7094017, y: 0.56050956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_000
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 858
+        width: 74
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.4566929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_004
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 865
+        width: 75
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52, y: 0.48333332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_005
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 784
+        width: 188
+        height: 201
+      alignment: 9
+      pivot: {x: 0.80851066, y: 0.2885572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_008
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 801
+        width: 161
+        height: 184
+      alignment: 9
+      pivot: {x: 0.78881985, y: 0.3152174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 71
+        height: 159
+      alignment: 9
+      pivot: {x: 0.53521127, y: 0.36477986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_016
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 631
+        width: 74
+        height: 149
+      alignment: 9
+      pivot: {x: 0.527027, y: 0.38926175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_020
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 648
+        width: 77
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.46212122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_024
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 640
+        width: 76
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5394737, y: 0.49285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_028
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 641
+        width: 72
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.48920864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_000
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 661
+        width: 116
+        height: 119
+      alignment: 9
+      pivot: {x: 0.30172414, y: 0.42016807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_004
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 660
+        width: 106
+        height: 120
+      alignment: 9
+      pivot: {x: 0.3301887, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_006
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 659
+        width: 235
+        height: 121
+      alignment: 9
+      pivot: {x: 0.16170213, y: 0.41322315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 235
+        height: 124
+      alignment: 9
+      pivot: {x: 0.16170213, y: 0.41129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_012
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 487
+        width: 230
+        height: 130
+      alignment: 9
+      pivot: {x: 0.15652174, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_016
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 485
+        width: 127
+        height: 132
+      alignment: 9
+      pivot: {x: 0.27559054, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_020
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 497
+        width: 121
+        height: 120
+      alignment: 9
+      pivot: {x: 0.2892562, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_024
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 502
+        width: 122
+        height: 115
+      alignment: 9
+      pivot: {x: 0.3114754, y: 0.4347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_028
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 499
+        width: 126
+        height: 118
+      alignment: 9
+      pivot: {x: 0.34920636, y: 0.42372882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 100
+        height: 122
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4262295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_004
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 360
+        width: 91
+        height: 121
+      alignment: 9
+      pivot: {x: 0.41758242, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_005
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 282
+        width: 201
+        height: 199
+      alignment: 9
+      pivot: {x: 0.18905473, y: 0.28140703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_008
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 302
+        width: 174
+        height: 179
+      alignment: 9
+      pivot: {x: 0.21839081, y: 0.31284916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_012
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 336
+        width: 80
+        height: 145
+      alignment: 9
+      pivot: {x: 0.475, y: 0.3862069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_016
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 344
+        width: 99
+        height: 137
+      alignment: 9
+      pivot: {x: 0.3838384, y: 0.38686132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_020
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 352
+        width: 102
+        height: 129
+      alignment: 9
+      pivot: {x: 0.37254903, y: 0.4496124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_024
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 349
+        width: 107
+        height: 132
+      alignment: 9
+      pivot: {x: 0.35514018, y: 0.49242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_028
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 108
+        height: 129
+      alignment: 9
+      pivot: {x: 0.37962964, y: 0.4651163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_000
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 137
+        width: 80
+        height: 141
+      alignment: 9
+      pivot: {x: 0.475, y: 0.4609929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_004
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 153
+        width: 84
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_005
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 11
+        width: 97
+        height: 267
+      alignment: 9
+      pivot: {x: 0.45360824, y: 0.2434457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_008
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 38
+        width: 102
+        height: 240
+      alignment: 9
+      pivot: {x: 0.46078432, y: 0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_012
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 112
+        width: 78
+        height: 166
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.39156628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_016
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 114
+        width: 72
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.40243903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_020
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 120
+        width: 72
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_024
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 117
+        width: 73
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5205479, y: 0.5341615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_028
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 116
+        width: 72
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5277778, y: 0.5308642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cowboy_Winchester_Backward_and_Shoot+45_270_135_016: 21300064
+      Cowboy_Winchester_Backward_and_Shoot+45_180_045_020: 21300030
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_028: 21300106
+      Cowboy_Winchester_Backward_and_Shoot+45_000_225_012: 21300008
+      Cowboy_Winchester_Backward_and_Shoot+45_225_090_028: 21300052
+      Cowboy_Winchester_Backward_and_Shoot+45_225_090_008: 21300042
+      Cowboy_Winchester_Backward_and_Shoot+45_315_180_005: 21300076
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_020: 21300102
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_004: 21300128
+      Cowboy_Winchester_Backward_and_Shoot+45_180_045_005: 21300022
+      Cowboy_Winchester_Backward_and_Shoot+45_270_135_028: 21300070
+      Cowboy_Winchester_Backward_and_Shoot+45_315_180_024: 21300086
+      Cowboy_Winchester_Backward_and_Shoot+45_315_180_000: 21300072
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_004: 21300092
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_005: 21300094
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_020: 21300120
+      Cowboy_Winchester_Backward_and_Shoot+45_180_045_016: 21300028
+      Cowboy_Winchester_Backward_and_Shoot+45_000_225_004: 21300002
+      Cowboy_Winchester_Backward_and_Shoot+45_000_225_000: 21300000
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_008: 21300132
+      Cowboy_Winchester_Backward_and_Shoot+45_225_090_012: 21300044
+      Cowboy_Winchester_Backward_and_Shoot+45_180_045_024: 21300032
+      Cowboy_Winchester_Backward_and_Shoot+45_225_090_016: 21300046
+      Cowboy_Winchester_Backward_and_Shoot+45_180_045_000: 21300018
+      Cowboy_Winchester_Backward_and_Shoot+45_270_135_024: 21300068
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_012: 21300152
+      Cowboy_Winchester_Backward_and_Shoot+45_270_135_004: 21300056
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_000: 21300144
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_028: 21300160
+      Cowboy_Winchester_Backward_and_Shoot+45_225_090_004: 21300038
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_012: 21300116
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_012: 21300098
+      Cowboy_Winchester_Backward_and_Shoot+45_315_180_028: 21300088
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_000: 21300090
+      Cowboy_Winchester_Backward_and_Shoot+45_225_090_000: 21300036
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_016: 21300100
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_024: 21300104
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_008: 21300150
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_004: 21300110
+      Cowboy_Winchester_Backward_and_Shoot+45_225_090_024: 21300050
+      Cowboy_Winchester_Backward_and_Shoot+45_180_045_008: 21300024
+      Cowboy_Winchester_Backward_and_Shoot+45_000_225_008: 21300006
+      Cowboy_Winchester_Backward_and_Shoot+45_315_180_012: 21300080
+      Cowboy_Winchester_Backward_and_Shoot+45_270_135_008: 21300060
+      Cowboy_Winchester_Backward_and_Shoot+45_270_135_012: 21300062
+      Cowboy_Winchester_Backward_and_Shoot+45_000_225_024: 21300014
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_012: 21300134
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_000: 21300126
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_024: 21300158
+      Cowboy_Winchester_Backward_and_Shoot+45_000_225_005: 21300004
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_000_135_008: 21300096
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_005: 21300148
+      Cowboy_Winchester_Backward_and_Shoot+45_270_135_000: 21300054
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_028: 21300142
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_024: 21300140
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_016: 21300154
+      Cowboy_Winchester_Backward_and_Shoot+45_000_225_020: 21300012
+      Cowboy_Winchester_Backward_and_Shoot+45_000_225_028: 21300016
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_000: 21300108
+      Cowboy_Winchester_Backward_and_Shoot+45_180_045_004: 21300020
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_028: 21300124
+      Cowboy_Winchester_Backward_and_Shoot+45_315_180_016: 21300082
+      Cowboy_Winchester_Backward_and_Shoot+45_225_090_020: 21300048
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_020: 21300138
+      Cowboy_Winchester_Backward_and_Shoot+45_270_135_005: 21300058
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_016: 21300118
+      Cowboy_Winchester_Backward_and_Shoot+45_315_180_004: 21300074
+      Cowboy_Winchester_Backward_and_Shoot+45_315_180_008: 21300078
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_008: 21300114
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_006: 21300112
+      Cowboy_Winchester_Backward_and_Shoot+45_180_045_028: 21300034
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_225_000_024: 21300122
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_020: 21300156
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_016: 21300136
+      Cowboy_Winchester_Backward_and_Shoot+45_225_090_005: 21300040
+      Cowboy_Winchester_Backward_and_Shoot+45_270_135_020: 21300066
+      Cowboy_Winchester_Backward_and_Shoot+45_315_180_020: 21300084
+      Cowboy_Winchester_Backward_and_Shoot+45_000_225_016: 21300010
+      Cowboy_Winchester_Backward_and_Shoot+45_180_045_012: 21300026
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_315_090_004: 21300146
+      Cowboy_Winchester_Walk_Backward_and_Shoot-45_270_045_005: 21300130
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
